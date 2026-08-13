@@ -1,0 +1,262 @@
+{
+  "items": [
+    {
+      "description": "You can click of the license badges to learn more, try it out on this one:",
+      "items": [],
+      "title": "👓 Alternatives to the Electron.js ⚛"
+    },
+    {
+      "description": "* Some features locked behind subscription\n** Unmaintained",
+      "items": [],
+      "title": "C#(.Net)"
+    },
+    {
+      "description": "* Unmaintained",
+      "items": [],
+      "title": "C/C++"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Crystal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dart"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Delphi"
+    },
+    {
+      "description": "* Unmaintained",
+      "items": [],
+      "title": "Elm"
+    },
+    {
+      "description": "* Unmaintained",
+      "items": [],
+      "title": "Go"
+    },
+    {
+      "description": "* Unmaintained",
+      "items": [],
+      "title": "Guile"
+    },
+    {
+      "description": "* Unmaintained",
+      "items": [],
+      "title": "Haskell"
+    },
+    {
+      "description": "* Unclear - Look to your java runtime/distrbution for details\n** Unmaintained\n*** No license provided, USE AT OWN RISK\n**** Core is free, but some features are locked behind a subscription",
+      "items": [],
+      "title": "Java"
+    },
+    {
+      "description": "* Unmaintained\n** No license provided, USE AT OWN RISK",
+      "items": [],
+      "title": "Javascript/TypeScript"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Julia"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Kotlin"
+    },
+    {
+      "description": "* Unmaintained\n** No license provided, USE AT OWN RISK",
+      "items": [],
+      "title": "Nim"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "No-code\\Low-code"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pascal/FreePascal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Perl"
+    },
+    {
+      "description": "** No license provided, USE AT OWN RISK",
+      "items": [],
+      "title": "PHP"
+    },
+    {
+      "description": "* Unmaintained\n** Unclear",
+      "items": [],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "R"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Reason"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rebol"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Red"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "V"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Visual programming"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Zig"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "yue/yue",
+          "description": "A library for creating native cross-platform GUI apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-01-24T11:00:07Z",
+            "owner": "yue",
+            "repo": "yue",
+            "stars": 3614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web To Desktop Framework Comparasion",
+          "description": "This repository was made to create an objective comparison of multiple framework that grant us to \"transform\" our web app to desktop application formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T06:51:19Z",
+            "owner": "Elanis",
+            "repo": "web-to-desktop-framework-comparison",
+            "stars": 1984
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-electronjs-hacking",
+          "description": "A curated list of awesome resources about Electron.js (in)security",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-14T13:37:44Z",
+            "owner": "doyensec",
+            "repo": "awesome-electronjs-hacking",
+            "stars": 679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jscherer92/Quark",
+          "description": "Create Applications with browser technologies using the native engine in your OS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-01-07T02:00:12Z",
+            "owner": "jscherer92",
+            "repo": "Quark",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Positron",
+          "description": "List of electron apps so I can avoid them, and some alternatives to use instead",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-15T02:57:57Z",
+            "owner": "kendofriendo",
+            "repo": "positron",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Alternatives to Electron Apps",
+          "description": "Electron is an application platform which spreads like a cancer in software development world making your immensely powerful computer feel slow and laggy. Sometimes apps made in Electron are useful, though. This list contains good alternatives to an memory hungry eco-unfriendly Electron software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-07-20T12:32:48Z",
+            "owner": "konchunas",
+            "repo": "awesome-alternatives-to-electron-apps",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "📖 Related work"
+    },
+    {
+      "description": "Consider Progressive Web Apps PWA, if your app doesn't require any platform interactions.\nSee this: Blazor, ElectronCGI.",
+      "items": [],
+      "title": "📚 Notes"
+    },
+    {
+      "description": "awesome-electron-alternatives is open to contributions, but I recommend creating an issue or replying in a comment to let me know what you are working on first that way we don't overwrite each other.\nPlease read CONTRIBUTING.md for details on this project. If you have any questions, feel free to open an issue. And feel free to improve this list by contributing!",
+      "items": [],
+      "title": "❤ Contributions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🙌 Contributors"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:04:09.556Z",
+    "original_repository": "sudhakar3697/awesome-electron-alternatives",
+    "original_repository_sha": "f34b062aaefe63e546a4bcd3931edc14ed6cbb49",
+    "enhanced_repository": "enhansome/enhansome-electron-alternatives",
+    "enhanced_repository_description": null,
+    "title": "👓 Awesome Electron.js Alternatives with stars"
+  }
+}
