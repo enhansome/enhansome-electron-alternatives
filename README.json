@@ -173,7 +173,7 @@
             "last_commit": "2026-08-05T06:51:19Z",
             "owner": "Elanis",
             "repo": "web-to-desktop-framework-comparison",
-            "stars": 1984
+            "stars": 1985
           }
         },
         {
@@ -252,7 +252,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T06:14:53.183Z",
+    "last_updated": "2026-08-17T06:22:47.030Z",
     "original_repository": "sudhakar3697/awesome-electron-alternatives",
     "original_repository_sha": "f34b062aaefe63e546a4bcd3931edc14ed6cbb49",
     "enhanced_repository": "enhansome/enhansome-electron-alternatives",
