@@ -1,6 +1,2865 @@
 {
   "items": [
     {
+      "description": "You can click of the license badges to learn more, try it out on this one:",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Avalonia",
+              "description": "Avalonia UI creates pixel-perfect, native, create Multi-Platform Apps with .NET",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14964475,
+                "language": "C#",
+                "last_commit": "2026-08-24T13:49:01Z",
+                "owner": "AvaloniaUI",
+                "repo": "Avalonia",
+                "stars": 31380
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Uno",
+              "description": "Pixel-Perfect Multi-Platform Applications with C# and WinUI. *",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132453438,
+                "language": "C#",
+                "last_commit": "2026-08-24T13:33:40Z",
+                "owner": "unoplatform",
+                "repo": "uno",
+                "stars": 10017
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chromely",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 103043228,
+                "language": "C#",
+                "last_commit": "2023-01-15T23:12:16Z",
+                "owner": "chromelyapps",
+                "repo": "Chromely",
+                "stars": 2972
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chromely",
+              "description": "**",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 103043228,
+                "language": "C#",
+                "last_commit": "2023-01-15T23:12:16Z",
+                "owner": "chromelyapps",
+                "repo": "Chromely",
+                "stars": 2972
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpiderEye",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 164701838,
+                "language": "C#",
+                "last_commit": "2023-01-10T11:54:02Z",
+                "owner": "ABildstein",
+                "repo": "SpiderEye",
+                "stars": 245
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpiderEye",
+              "description": "**",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 164701838,
+                "language": "C#",
+                "last_commit": "2023-01-10T11:54:02Z",
+                "owner": "ABildstein",
+                "repo": "SpiderEye",
+                "stars": 245
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Photino.NET",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 329743512,
+                "language": "C#",
+                "last_commit": "2026-03-26T15:15:41Z",
+                "owner": "tryphotino",
+                "repo": "photino.NET",
+                "stars": 1324
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "photino.NET",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 329743512,
+                "language": "C#",
+                "last_commit": "2026-03-26T15:15:41Z",
+                "owner": "tryphotino",
+                "repo": "photino.NET",
+                "stars": 1324
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "foton",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 187287400,
+                "language": "C#",
+                "last_commit": "2025-04-12T03:46:36Z",
+                "owner": "integrativesoft",
+                "repo": "foton",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "foton",
+              "description": "**",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 187287400,
+                "language": "C#",
+                "last_commit": "2025-04-12T03:46:36Z",
+                "owner": "integrativesoft",
+                "repo": "foton",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfiniFrame",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1058522977,
+                "language": "C#",
+                "last_commit": "2026-08-24T13:13:11Z",
+                "owner": "InfiniLore",
+                "repo": "InfiniFrame",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfiniFrame",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1058522977,
+                "language": "C#",
+                "last_commit": "2026-08-24T13:13:11Z",
+                "owner": "InfiniLore",
+                "repo": "InfiniFrame",
+                "stars": 45
+              }
+            }
+          ],
+          "description": "* Some features locked behind subscription\n** Unmaintained",
+          "node_type": "group",
+          "title": "C#(.Net)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Webview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100781035,
+                "language": "C++",
+                "last_commit": "2026-03-09T07:51:25Z",
+                "owner": "webview",
+                "repo": "webview",
+                "stars": 14206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "webview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100781035,
+                "language": "C++",
+                "last_commit": "2026-03-09T07:51:25Z",
+                "owner": "webview",
+                "repo": "webview",
+                "stars": 14206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Saucer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395748812,
+                "language": "C++",
+                "last_commit": "2026-08-08T16:03:32Z",
+                "owner": "saucer",
+                "repo": "saucer",
+                "stars": 918
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "saucer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395748812,
+                "language": "C++",
+                "last_commit": "2026-08-08T16:03:32Z",
+                "owner": "saucer",
+                "repo": "saucer",
+                "stars": 918
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tiny",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 280580167,
+                "language": "Makefile",
+                "last_commit": "2026-03-11T08:13:14Z",
+                "owner": "Rafi993",
+                "repo": "tiny",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tiny",
+              "description": "*",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 280580167,
+                "language": "Makefile",
+                "last_commit": "2026-03-11T08:13:14Z",
+                "owner": "Rafi993",
+                "repo": "tiny",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UnityHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206668792,
+                "language": "C++",
+                "last_commit": "2025-11-08T20:08:59Z",
+                "owner": "Ravbug",
+                "repo": "UnityHubNative",
+                "stars": 551
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UnityHubNative",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206668792,
+                "language": "C++",
+                "last_commit": "2025-11-08T20:08:59Z",
+                "owner": "Ravbug",
+                "repo": "UnityHubNative",
+                "stars": 551
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RenWeb",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 997519791,
+                "language": "C++",
+                "last_commit": "2026-04-26T18:22:27Z",
+                "owner": "spur27",
+                "repo": "RenWeb-Engine",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RenWeb-Engine",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 997519791,
+                "language": "C++",
+                "last_commit": "2026-04-26T18:22:27Z",
+                "owner": "spur27",
+                "repo": "RenWeb-Engine",
+                "stars": 3
+              }
+            }
+          ],
+          "description": "* Unmaintained",
+          "node_type": "group",
+          "title": "C/C++"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Crystal Webview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266604114,
+                "language": "C++",
+                "last_commit": "2026-06-24T14:16:47Z",
+                "owner": "naqvis",
+                "repo": "webview",
+                "stars": 107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Crystal language bindings for webview",
+              "description": ", a tiny cross-platform webview library which uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and Edge on Windows 10)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100781035,
+                "language": "C++",
+                "last_commit": "2026-03-09T07:51:25Z",
+                "owner": "webview",
+                "repo": "webview",
+                "stars": 14206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "webview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266604114,
+                "language": "C++",
+                "last_commit": "2026-06-24T14:16:47Z",
+                "owner": "naqvis",
+                "repo": "webview",
+                "stars": 107
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Crystal"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "flutter",
+              "description": "Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31792824,
+                "language": "Dart",
+                "last_commit": "2026-08-24T13:55:00Z",
+                "owner": "flutter",
+                "repo": "flutter",
+                "stars": 178636
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dart"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Elm UI",
+              "description": "UI library for making web applications with Elm. *",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47490165,
+                "language": "Elm",
+                "last_commit": "2020-11-03T12:58:03Z",
+                "owner": "gdotdesign",
+                "repo": "elm-ui",
+                "stars": 923
+              }
+            }
+          ],
+          "description": "* Unmaintained",
+          "node_type": "group",
+          "title": "Elm"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lorca",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156127781,
+                "language": "Go",
+                "last_commit": "2024-08-19T06:48:40Z",
+                "owner": "zserge",
+                "repo": "lorca",
+                "stars": 8203
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lorca",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156127781,
+                "language": "Go",
+                "last_commit": "2024-08-19T06:48:40Z",
+                "owner": "zserge",
+                "repo": "lorca",
+                "stars": 8203
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wails",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161951219,
+                "language": "Go",
+                "last_commit": "2026-08-24T00:04:50Z",
+                "owner": "wailsapp",
+                "repo": "wails",
+                "stars": 35944
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wails",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161951219,
+                "language": "Go",
+                "last_commit": "2026-08-24T00:04:50Z",
+                "owner": "wailsapp",
+                "repo": "wails",
+                "stars": 35944
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "muon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211175643,
+                "language": "C",
+                "last_commit": "2023-03-15T06:02:13Z",
+                "owner": "ImVexed",
+                "repo": "muon",
+                "stars": 2941
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "muon",
+              "description": "*",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211175643,
+                "language": "C",
+                "last_commit": "2023-03-15T06:02:13Z",
+                "owner": "ImVexed",
+                "repo": "muon",
+                "stars": 2941
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fyne",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120227732,
+                "language": "Go",
+                "last_commit": "2026-08-22T21:19:44Z",
+                "owner": "fyne-io",
+                "repo": "fyne",
+                "stars": 28635
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fyne",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120227732,
+                "language": "Go",
+                "last_commit": "2026-08-22T21:19:44Z",
+                "owner": "fyne-io",
+                "repo": "fyne",
+                "stars": 28635
+              }
+            }
+          ],
+          "description": "* Unmaintained",
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "guile-pstk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 433902134,
+                "language": "Scheme",
+                "last_commit": "2022-03-18T19:34:06Z",
+                "owner": "KikyTokamuro",
+                "repo": "guile-pstk",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "guile-pstk",
+              "description": "*",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 433902134,
+                "language": "Scheme",
+                "last_commit": "2022-03-18T19:34:06Z",
+                "owner": "KikyTokamuro",
+                "repo": "guile-pstk",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "guile-webview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 514375678,
+                "language": "Scheme",
+                "last_commit": "2025-03-15T22:21:49Z",
+                "owner": "KikyTokamuro",
+                "repo": "guile-webview",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "guile-webview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 514375678,
+                "language": "Scheme",
+                "last_commit": "2025-03-15T22:21:49Z",
+                "owner": "KikyTokamuro",
+                "repo": "guile-webview",
+                "stars": 13
+              }
+            }
+          ],
+          "description": "* Unmaintained",
+          "node_type": "group",
+          "title": "Guile"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Keera Hails",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4675069,
+                "language": "Haskell",
+                "last_commit": "2022-04-05T08:30:03Z",
+                "owner": "keera-studios",
+                "repo": "keera-hails",
+                "stars": 205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "keera-hails",
+              "description": "*",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4675069,
+                "language": "Haskell",
+                "last_commit": "2022-04-05T08:30:03Z",
+                "owner": "keera-studios",
+                "repo": "keera-hails",
+                "stars": 205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Threepenny-gui",
+              "description": "Threepenny-gui is a GUI framework that uses the web browser as a display. It supports Functional Reactive Programming.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3046496,
+                "language": "Haskell",
+                "last_commit": "2025-10-16T11:25:20Z",
+                "owner": "HeinrichApfelmus",
+                "repo": "threepenny-gui",
+                "stars": 500
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Monomer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 210380285,
+                "language": "Haskell",
+                "last_commit": "2026-01-04T03:13:30Z",
+                "owner": "fjvallarino",
+                "repo": "monomer",
+                "stars": 661
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "monomer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 210380285,
+                "language": "Haskell",
+                "last_commit": "2026-01-04T03:13:30Z",
+                "owner": "fjvallarino",
+                "repo": "monomer",
+                "stars": 661
+              }
+            }
+          ],
+          "description": "* Unmaintained",
+          "node_type": "group",
+          "title": "Haskell"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenJFX or JavaFX",
+              "description": "JavaFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java. It is a collaborative effort by many individuals and companies with the goal of producing a modern, efficient, and fully featured toolkit for developing rich client applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 185199202,
+                "language": "C++",
+                "last_commit": "2026-08-22T14:15:23Z",
+                "owner": "openjdk",
+                "repo": "jfx",
+                "stars": 3282
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "webview",
+              "description": "Template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app. **, ***",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88766799,
+                "language": "Java",
+                "last_commit": "2017-04-20T12:21:29Z",
+                "owner": "ronysfreitas",
+                "repo": "webview",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vaadin",
+              "description": "Vaadin can integrate backend java (spring) with its own Hilla enviroment to connect in directly to React components - no need for api calls. Here is en example how to compile it in Electron for fully fledged desktop app: https://github.com/MarciaBM/electron-vaadin-hilla-template ****",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 952650785,
+                "language": "JavaScript",
+                "last_commit": "2025-03-28T02:28:01Z",
+                "owner": "MarciaBM",
+                "repo": "electron-vaadin-hilla-template",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "* Unclear - Look to your java runtime/distrbution for details\n** Unmaintained\n*** No license provided, USE AT OWN RISK\n**** Core is free, but some features are locked behind a subscription",
+          "node_type": "group",
+          "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "electrino",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90042534,
+                "language": "C#",
+                "last_commit": "2022-12-07T18:00:46Z",
+                "owner": "pojala",
+                "repo": "electrino",
+                "stars": 4397
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electrino",
+              "description": "*",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90042534,
+                "language": "C#",
+                "last_commit": "2022-12-07T18:00:46Z",
+                "owner": "pojala",
+                "repo": "electrino",
+                "stars": 4397
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nidium",
+              "description": "A powerful rendering engine for modern mobile applications. Unlike many solution, nidium doesn't rely on webviews or native OS widgets. Instead, it uses its own high-performance rendering engine to draw custom widgets. *",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59298641,
+                "language": "C++",
+                "last_commit": "2019-11-12T18:23:08Z",
+                "owner": "nidium",
+                "repo": "Nidium",
+                "stars": 1142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "modern-hta",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122618354,
+                "language": "JavaScript",
+                "last_commit": "2026-05-25T16:03:53Z",
+                "owner": "joncasey",
+                "repo": "modern-hta",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "modern-hta",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122618354,
+                "language": "JavaScript",
+                "last_commit": "2026-05-25T16:03:53Z",
+                "owner": "joncasey",
+                "repo": "modern-hta",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native Desktop",
+              "description": "Cross-platform React Native Desktop port based on Qt framework. *, **",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98602175,
+                "language": "JavaScript",
+                "last_commit": "2026-07-09T00:16:40Z",
+                "owner": "status-im",
+                "repo": "react-native-desktop-qt",
+                "stars": 1247
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NodeGui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186662363,
+                "language": "C++",
+                "last_commit": "2026-05-03T17:50:16Z",
+                "owner": "nodegui",
+                "repo": "nodegui",
+                "stars": 9227
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Powered by Qt5, NodeGui-React",
+              "description": ", Vue NodeGui, Svelte-NodeGui",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193393505,
+                "language": "TypeScript",
+                "last_commit": "2023-11-03T01:50:26Z",
+                "owner": "nodegui",
+                "repo": "react-nodegui",
+                "stars": 6180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nodegui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186662363,
+                "language": "C++",
+                "last_commit": "2026-05-03T17:50:16Z",
+                "owner": "nodegui",
+                "repo": "nodegui",
+                "stars": 9227
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Astrodon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 443840726,
+                "language": "TypeScript",
+                "last_commit": "2023-03-26T14:45:16Z",
+                "owner": "astrodon",
+                "repo": "astrodon",
+                "stars": 1024
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "astrodon",
+              "description": "*",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 443840726,
+                "language": "TypeScript",
+                "last_commit": "2023-03-26T14:45:16Z",
+                "owner": "astrodon",
+                "repo": "astrodon",
+                "stars": 1024
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "webview_deno",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245254578,
+                "language": "TypeScript",
+                "last_commit": "2025-02-25T09:19:36Z",
+                "owner": "webview",
+                "repo": "webview_deno",
+                "stars": 1592
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "webview_deno",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245254578,
+                "language": "TypeScript",
+                "last_commit": "2025-02-25T09:19:36Z",
+                "owner": "webview",
+                "repo": "webview_deno",
+                "stars": 1592
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeskGap",
+              "description": "bundles a Node.js runtime and leaves the HTML rendering to the operating system‘s webview). *",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 167922316,
+                "language": "C++",
+                "last_commit": "2021-03-26T02:25:38Z",
+                "owner": "wan9chi",
+                "repo": "DeskGap",
+                "stars": 1812
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NW.js",
+              "description": "Similar to electron, provides Source code protection).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3100121,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T04:08:07Z",
+                "owner": "nwjs",
+                "repo": "nw.js",
+                "stars": 41163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neutralinojs",
+              "description": "chromium module is replaced with either user’s web browser or built-in browser component. Node run-time is replaced with a lightweight web server which exposes native OS functionality).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138368259,
+                "language": "C",
+                "last_commit": "2026-08-24T00:21:17Z",
+                "owner": "neutralinojs",
+                "repo": "neutralinojs",
+                "stars": 8615
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "does the same to desktop that React Native did to mobile, based on libui-node",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59367691,
+                "language": "C++",
+                "last_commit": "2021-07-22T16:46:18Z",
+                "owner": "parro-it",
+                "repo": "libui-node",
+                "stars": 1873
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "proton-native",
+              "description": "*",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111610659,
+                "language": "TypeScript",
+                "last_commit": "2023-01-07T02:21:10Z",
+                "owner": "kusti8",
+                "repo": "proton-native",
+                "stars": 10885
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Graffiti",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154177632,
+                "language": "Zig",
+                "last_commit": "2023-11-08T17:06:06Z",
+                "owner": "cztomsik",
+                "repo": "graffiti",
+                "stars": 932
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "graffiti",
+              "description": "*",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154177632,
+                "language": "Zig",
+                "last_commit": "2023-11-08T17:06:06Z",
+                "owner": "cztomsik",
+                "repo": "graffiti",
+                "stars": 932
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gluon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 575485391,
+                "language": "JavaScript",
+                "last_commit": "2023-11-08T03:29:05Z",
+                "owner": "gluon-framework",
+                "repo": "gluon",
+                "stars": 3053
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gluon",
+              "description": "*",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 575485391,
+                "language": "JavaScript",
+                "last_commit": "2023-11-08T03:29:05Z",
+                "owner": "gluon-framework",
+                "repo": "gluon",
+                "stars": 3053
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Avernakis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 389320327,
+                "language": "C++",
+                "last_commit": "2023-02-18T06:18:04Z",
+                "owner": "qber-soft",
+                "repo": "Ave-Nodejs",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ave-Nodejs",
+              "description": "*",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 389320327,
+                "language": "C++",
+                "last_commit": "2023-02-18T06:18:04Z",
+                "owner": "qber-soft",
+                "repo": "Ave-Nodejs",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WelsonJS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275600068,
+                "language": "JavaScript",
+                "last_commit": "2026-08-23T18:29:12Z",
+                "owner": "gnh1201",
+                "repo": "welsonjs",
+                "stars": 481
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "welsonjs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275600068,
+                "language": "JavaScript",
+                "last_commit": "2026-08-23T18:29:12Z",
+                "owner": "gnh1201",
+                "repo": "welsonjs",
+                "stars": 481
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vuido",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133851398,
+                "language": "JavaScript",
+                "last_commit": "2023-03-01T22:54:33Z",
+                "owner": "mimecorg",
+                "repo": "vuido",
+                "stars": 6054
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Creating native desktop applications based on Vue.js, based on libui-node",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59367691,
+                "language": "C++",
+                "last_commit": "2021-07-22T16:46:18Z",
+                "owner": "parro-it",
+                "repo": "libui-node",
+                "stars": 1873
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vuido",
+              "description": "*",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133851398,
+                "language": "JavaScript",
+                "last_commit": "2023-03-01T22:54:33Z",
+                "owner": "mimecorg",
+                "repo": "vuido",
+                "stars": 6054
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "quasar",
+              "description": "Vue.js based framework, which lets web developer to quickly create responsive websites/apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43695474,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T13:11:14Z",
+                "owner": "quasarframework",
+                "repo": "quasar",
+                "stars": 27205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ProtonShell",
+              "description": "Lightweight shell for websites, simple web applications, built on the Microsoft Edge system browser. * *",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 431461461,
+                "language": "Pascal",
+                "last_commit": "2024-10-30T22:03:03Z",
+                "owner": "r57zone",
+                "repo": "ProtonShell",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Electrobun",
+              "description": "Electrobun aims to be a complete solution-in-a-box for building, updating, and shipping ultra-fast, tiny, and cross-platform desktop applications written in Typescript. Under the hood, it uses bun to execute the main process and to bundle webview typescript, and has native bindings written in zig.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 764419211,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T20:36:39Z",
+                "owner": "blackboardsh",
+                "repo": "electrobun",
+                "stars": 12690
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Butter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1190861413,
+                "language": "TypeScript",
+                "last_commit": "2026-07-22T20:11:05Z",
+                "owner": "wess",
+                "repo": "butter",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "butter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1190861413,
+                "language": "TypeScript",
+                "last_commit": "2026-07-22T20:11:05Z",
+                "owner": "wess",
+                "repo": "butter",
+                "stars": 25
+              }
+            }
+          ],
+          "description": "* Unmaintained\n** No license provided, USE AT OWN RISK",
+          "node_type": "group",
+          "title": "Javascript/TypeScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MouseTrap",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 652248845,
+                "language": "Julia",
+                "last_commit": "2024-02-28T14:54:55Z",
+                "owner": "Clemapfel",
+                "repo": "Mousetrap.jl",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mousetrap.jl",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 652248845,
+                "language": "Julia",
+                "last_commit": "2024-02-28T14:54:55Z",
+                "owner": "Clemapfel",
+                "repo": "Mousetrap.jl",
+                "stars": 456
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Julia"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Compose Multiplatform",
+              "description": "Declarative framework for sharing UIs across multiple platforms. Based on Kotlin and Jetpack Compose. Developed by JetBrains and open-source contributors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293498508,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T13:22:57Z",
+                "owner": "JetBrains",
+                "repo": "compose-multiplatform",
+                "stars": 19315
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Kotlin"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nimx",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28592033,
+                "language": "Nim",
+                "last_commit": "2026-07-25T10:46:52Z",
+                "owner": "yglukhov",
+                "repo": "nimx",
+                "stars": 1191
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nimx",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28592033,
+                "language": "Nim",
+                "last_commit": "2026-07-25T10:46:52Z",
+                "owner": "yglukhov",
+                "repo": "nimx",
+                "stars": 1191
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NiGui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95961846,
+                "language": "Nim",
+                "last_commit": "2026-04-07T14:03:17Z",
+                "owner": "simonkrauter",
+                "repo": "NiGui",
+                "stars": 784
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NiGui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95961846,
+                "language": "Nim",
+                "last_commit": "2026-04-07T14:03:17Z",
+                "owner": "simonkrauter",
+                "repo": "NiGui",
+                "stars": 784
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60523507,
+                "language": "Nim",
+                "last_commit": "2023-01-25T19:13:14Z",
+                "owner": "nim-lang",
+                "repo": "ui",
+                "stars": 244
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60523507,
+                "language": "Nim",
+                "last_commit": "2023-01-25T19:13:14Z",
+                "owner": "nim-lang",
+                "repo": "ui",
+                "stars": 244
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iup",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44299457,
+                "language": "Nim",
+                "last_commit": "2021-09-20T12:50:28Z",
+                "owner": "nim-lang",
+                "repo": "iup",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iup",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44299457,
+                "language": "Nim",
+                "last_commit": "2021-09-20T12:50:28Z",
+                "owner": "nim-lang",
+                "repo": "iup",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SDL2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17325360,
+                "language": "Nim",
+                "last_commit": "2026-04-21T12:31:34Z",
+                "owner": "nim-lang",
+                "repo": "sdl2",
+                "stars": 254
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sdl2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17325360,
+                "language": "Nim",
+                "last_commit": "2026-04-21T12:31:34Z",
+                "owner": "nim-lang",
+                "repo": "sdl2",
+                "stars": 254
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SDL2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12346499,
+                "language": "Nim",
+                "last_commit": "2022-05-07T19:41:43Z",
+                "owner": "Vladar4",
+                "repo": "sdl2_nim",
+                "stars": 148
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sdl2_nim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12346499,
+                "language": "Nim",
+                "last_commit": "2022-05-07T19:41:43Z",
+                "owner": "Vladar4",
+                "repo": "sdl2_nim",
+                "stars": 148
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Owlkettle",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 467682278,
+                "language": "Nim",
+                "last_commit": "2026-07-20T13:57:14Z",
+                "owner": "can-lehmann",
+                "repo": "owlkettle",
+                "stars": 451
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "owlkettle",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 467682278,
+                "language": "Nim",
+                "last_commit": "2026-07-20T13:57:14Z",
+                "owner": "can-lehmann",
+                "repo": "owlkettle",
+                "stars": 451
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wNim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147432038,
+                "language": "Nim",
+                "last_commit": "2024-07-19T19:48:39Z",
+                "owner": "khchen",
+                "repo": "wNim",
+                "stars": 352
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wNim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147432038,
+                "language": "Nim",
+                "last_commit": "2024-07-19T19:48:39Z",
+                "owner": "khchen",
+                "repo": "wNim",
+                "stars": 352
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gintro",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96431457,
+                "language": "Nim",
+                "last_commit": "2023-05-19T08:16:42Z",
+                "owner": "StefanSalewski",
+                "repo": "gintro",
+                "stars": 301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gintro",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96431457,
+                "language": "Nim",
+                "last_commit": "2023-05-19T08:16:42Z",
+                "owner": "StefanSalewski",
+                "repo": "gintro",
+                "stars": 301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nimqml",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28595561,
+                "language": "Nim",
+                "last_commit": "2025-02-05T22:47:34Z",
+                "owner": "filcuc",
+                "repo": "nimqml",
+                "stars": 174
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nimqml",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28595561,
+                "language": "Nim",
+                "last_commit": "2025-02-05T22:47:34Z",
+                "owner": "filcuc",
+                "repo": "nimqml",
+                "stars": 174
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neel",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299354262,
+                "language": "Nim",
+                "last_commit": "2023-11-30T06:29:28Z",
+                "owner": "Niminem",
+                "repo": "Neel",
+                "stars": 252
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neel",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299354262,
+                "language": "Nim",
+                "last_commit": "2023-11-30T06:29:28Z",
+                "owner": "Niminem",
+                "repo": "Neel",
+                "stars": 252
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nimview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 303786129,
+                "language": "Nim",
+                "last_commit": "2022-09-18T10:25:23Z",
+                "owner": "marcomq",
+                "repo": "nimview",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nimview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 303786129,
+                "language": "Nim",
+                "last_commit": "2022-09-18T10:25:23Z",
+                "owner": "marcomq",
+                "repo": "nimview",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "webgui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252902211,
+                "language": "Nim",
+                "last_commit": "2026-08-17T22:50:46Z",
+                "owner": "juancarlospaco",
+                "repo": "webgui",
+                "stars": 146
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "webgui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252902211,
+                "language": "Nim",
+                "last_commit": "2026-08-17T22:50:46Z",
+                "owner": "juancarlospaco",
+                "repo": "webgui",
+                "stars": 146
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fidget",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165697922,
+                "language": "Nim",
+                "last_commit": "2026-08-23T22:31:20Z",
+                "owner": "treeform",
+                "repo": "fidget",
+                "stars": 800
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fidget",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165697922,
+                "language": "Nim",
+                "last_commit": "2026-08-23T22:31:20Z",
+                "owner": "treeform",
+                "repo": "fidget",
+                "stars": 800
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "imgui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191668506,
+                "language": "C++",
+                "last_commit": "2025-12-20T07:21:20Z",
+                "owner": "nimgl",
+                "repo": "imgui",
+                "stars": 151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "imgui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191668506,
+                "language": "C++",
+                "last_commit": "2025-12-20T07:21:20Z",
+                "owner": "nimgl",
+                "repo": "imgui",
+                "stars": 151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nimAntTweakBar",
+              "description": "Wrapper for AntTweakBar. *, **",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56339100,
+                "language": "C++",
+                "last_commit": "2021-09-19T09:16:49Z",
+                "owner": "krux02",
+                "repo": "nimAntTweakBar",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ggplotnim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188495430,
+                "language": "Nim",
+                "last_commit": "2026-02-24T14:19:44Z",
+                "owner": "Vindaar",
+                "repo": "ggplotnim",
+                "stars": 188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ggplotnim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188495430,
+                "language": "Nim",
+                "last_commit": "2026-02-24T14:19:44Z",
+                "owner": "Vindaar",
+                "repo": "ggplotnim",
+                "stars": 188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "plotly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132914373,
+                "language": "Nim",
+                "last_commit": "2024-04-09T17:26:47Z",
+                "owner": "SciNim",
+                "repo": "nim-plotly",
+                "stars": 185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nim-plotly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132914373,
+                "language": "Nim",
+                "last_commit": "2024-04-09T17:26:47Z",
+                "owner": "SciNim",
+                "repo": "nim-plotly",
+                "stars": 185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "graph",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68330614,
+                "language": "Nim",
+                "last_commit": "2020-08-28T10:44:40Z",
+                "owner": "stisa",
+                "repo": "graph",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "graph",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68330614,
+                "language": "Nim",
+                "last_commit": "2020-08-28T10:44:40Z",
+                "owner": "stisa",
+                "repo": "graph",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nimetry",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 212246326,
+                "language": null,
+                "last_commit": "2019-06-16T05:30:43Z",
+                "owner": "refaqtor",
+                "repo": "nimetry",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nimetry",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 212246326,
+                "language": null,
+                "last_commit": "2019-06-16T05:30:43Z",
+                "owner": "refaqtor",
+                "repo": "nimetry",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nimgraphviz",
+              "description": "A Nim library for making graphs with GraphViz and DOT. *, **",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 399031600,
+                "language": "Nim",
+                "last_commit": "2026-04-25T13:18:41Z",
+                "owner": "Aveheuzed",
+                "repo": "nimgraphviz",
+                "stars": 11
+              }
+            }
+          ],
+          "description": "* Unmaintained\n** No license provided, USE AT OWN RISK",
+          "node_type": "group",
+          "title": "Nim"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Perl Executing Browser",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14790609,
+                "language": "C++",
+                "last_commit": "2024-11-09T13:35:39Z",
+                "owner": "ddmitov",
+                "repo": "perl-executing-browser",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "perl-executing-browser",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14790609,
+                "language": "C++",
+                "last_commit": "2024-11-09T13:35:39Z",
+                "owner": "ddmitov",
+                "repo": "perl-executing-browser",
+                "stars": 65
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Perl"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NativePHP",
+              "description": "NativePHP is a new framework for rapidly building rich, native desktop applications using PHP, HTML, CSS, Javascript.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 625678322,
+                "language": "PHP",
+                "last_commit": "2026-05-27T22:12:31Z",
+                "owner": "NativePHP",
+                "repo": "laravel",
+                "stars": 3888
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP TkUI",
+              "description": "Build native desktop applications using PHP and Tcl/Tk. **",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 398833822,
+                "language": "PHP",
+                "last_commit": "2026-08-09T11:38:16Z",
+                "owner": "skoro",
+                "repo": "php-tkui",
+                "stars": 507
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BOSON",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 798442695,
+                "language": "PHP",
+                "last_commit": "2026-08-13T14:27:29Z",
+                "owner": "boson-php",
+                "repo": "boson",
+                "stars": 669
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "boson",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 798442695,
+                "language": "PHP",
+                "last_commit": "2026-08-13T14:27:29Z",
+                "owner": "boson-php",
+                "repo": "boson",
+                "stars": 669
+              }
+            }
+          ],
+          "description": "** No license provided, USE AT OWN RISK",
+          "node_type": "group",
+          "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fbs",
+              "description": "Python and Qt are great for writing lightweight desktop apps. But packaging, installers, code signing and automatic updates are a pain. fbs solves these problems and saves you months of development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114350452,
+                "language": "Python",
+                "last_commit": "2025-01-06T10:55:46Z",
+                "owner": "mherrmann",
+                "repo": "fbs",
+                "stars": 3924
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kivy",
+              "description": "The Open Source Python App Development Framework. Build and distribute beautiful Python cross-platform GUI apps with ease. Kivy runs on Android, iOS, Linux, macOS and Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1049095,
+                "language": "Python",
+                "last_commit": "2026-08-23T17:25:27Z",
+                "owner": "kivy",
+                "repo": "kivy",
+                "stars": 19008
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyGUI",
+              "description": "An project to develop a cross-platform pythonic GUI API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133772544,
+                "language": "Python",
+                "last_commit": "2018-05-17T07:29:18Z",
+                "owner": "gcewing",
+                "repo": "PyGUI",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flet",
+              "description": "The fastest way to build Flutter apps in Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-19T17:05:59Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16612
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Eel",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 115559503,
+                "language": "Python",
+                "last_commit": "2025-06-22T18:29:43Z",
+                "owner": "python-eel",
+                "repo": "Eel",
+                "stars": 6736
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Eel",
+              "description": "*",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 115559503,
+                "language": "Python",
+                "last_commit": "2025-06-22T18:29:43Z",
+                "owner": "python-eel",
+                "repo": "Eel",
+                "stars": 6736
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pywebview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26908699,
+                "language": "Python",
+                "last_commit": "2026-08-11T08:58:10Z",
+                "owner": "r0x0r",
+                "repo": "pywebview",
+                "stars": 5991
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pywebview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26908699,
+                "language": "Python",
+                "last_commit": "2026-08-11T08:58:10Z",
+                "owner": "r0x0r",
+                "repo": "pywebview",
+                "stars": 5991
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pysimplegui",
+              "description": "PySimpleGUI creates graphical user interfaces (GUIs) using Python, quickly and easily!.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140614233,
+                "language": "Python",
+                "last_commit": "2026-08-21T22:28:09Z",
+                "owner": "PySimpleGUI",
+                "repo": "PySimpleGUI",
+                "stars": 13812
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NiceGUI",
+              "description": "NiceGUI is an approachable web-based UI toolkit for Python that can self-host with auto-refresh as you update the source, with a rich set of UI widgets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365250183,
+                "language": "Python",
+                "last_commit": "2026-08-19T15:56:10Z",
+                "owner": "zauberzeug",
+                "repo": "nicegui",
+                "stars": 16158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Toga",
+              "description": "Toga is a Python native, OS native, cross-platform GUI toolkit. Toga consists of a library of base components with a shared interface to simplify platform-agnostic GUI development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22529973,
+                "language": "Python",
+                "last_commit": "2026-08-23T22:06:16Z",
+                "owner": "beeware",
+                "repo": "toga",
+                "stars": 5407
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pyloid",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 867512664,
+                "language": "Python",
+                "last_commit": "2025-11-08T08:37:16Z",
+                "owner": "pyloid",
+                "repo": "pyloid",
+                "stars": 518
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyloid",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 867512664,
+                "language": "Python",
+                "last_commit": "2025-11-08T08:37:16Z",
+                "owner": "pyloid",
+                "repo": "pyloid",
+                "stars": 518
+              }
+            }
+          ],
+          "description": "* Unmaintained\n** Unclear",
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shiny",
+              "description": "Easy web apps for data science without the compromises",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4729944,
+                "language": "R",
+                "last_commit": "2026-08-20T15:24:14Z",
+                "owner": "rstudio",
+                "repo": "shiny",
+                "stars": 5682
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "R"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "revery-ui",
+              "description": "Fast, native, cross-platform UI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149477929,
+                "language": "Reason",
+                "last_commit": "2022-02-13T22:31:10Z",
+                "owner": "revery-ui",
+                "repo": "revery",
+                "stars": 8043
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reason"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Drawing",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29379153,
+                "language": "CSS",
+                "last_commit": "2026-07-12T22:40:06Z",
+                "owner": "red",
+                "repo": "docs",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "red",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1449773,
+                "language": "Red",
+                "last_commit": "2026-08-18T21:17:40Z",
+                "owner": "red",
+                "repo": "red",
+                "stars": 6033
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Native GUI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29379153,
+                "language": "CSS",
+                "last_commit": "2026-07-12T22:40:06Z",
+                "owner": "red",
+                "repo": "docs",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "red",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1449773,
+                "language": "Red",
+                "last_commit": "2026-08-18T21:17:40Z",
+                "owner": "red",
+                "repo": "red",
+                "stars": 6033
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Layout",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29379153,
+                "language": "CSS",
+                "last_commit": "2026-07-12T22:40:06Z",
+                "owner": "red",
+                "repo": "docs",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "red",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1449773,
+                "language": "Red",
+                "last_commit": "2026-08-18T21:17:40Z",
+                "owner": "red",
+                "repo": "red",
+                "stars": 6033
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Red"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Glimmer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85116,
+                "language": "Ruby",
+                "last_commit": "2026-04-07T19:21:41Z",
+                "owner": "AndyObtiva",
+                "repo": "glimmer",
+                "stars": 839
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "glimmer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85116,
+                "language": "Ruby",
+                "last_commit": "2026-04-07T19:21:41Z",
+                "owner": "AndyObtiva",
+                "repo": "glimmer",
+                "stars": 839
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "qtbindings",
+              "description": "Ruby bindings for Qt. OR",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 808295,
+                "language": "C++",
+                "last_commit": "2021-02-15T05:22:55Z",
+                "owner": "ryanmelt",
+                "repo": "qtbindings",
+                "stars": 336
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55744612,
+                "language": "Ruby",
+                "last_commit": "2026-06-24T01:57:38Z",
+                "owner": "ruby",
+                "repo": "tk",
+                "stars": 136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55744612,
+                "language": "Ruby",
+                "last_commit": "2026-06-24T01:57:38Z",
+                "owner": "ruby",
+                "repo": "tk",
+                "stars": 136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ruby-gnome",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2051452,
+                "language": "Ruby",
+                "last_commit": "2026-08-17T01:19:25Z",
+                "owner": "ruby-gnome",
+                "repo": "ruby-gnome",
+                "stars": 404
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ruby-gnome",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2051452,
+                "language": "Ruby",
+                "last_commit": "2026-08-17T01:19:25Z",
+                "owner": "ruby-gnome",
+                "repo": "ruby-gnome",
+                "stars": 404
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JRubyFX",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2755202,
+                "language": "Ruby",
+                "last_commit": "2022-04-16T00:27:15Z",
+                "owner": "jruby",
+                "repo": "jrubyfx",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jrubyfx",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2755202,
+                "language": "Ruby",
+                "last_commit": "2022-04-16T00:27:15Z",
+                "owner": "jruby",
+                "repo": "jrubyfx",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "traveling-ruby",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27350433,
+                "language": "Shell",
+                "last_commit": "2026-08-03T15:26:34Z",
+                "owner": "phusion",
+                "repo": "traveling-ruby",
+                "stars": 2137
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "traveling-ruby",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27350433,
+                "language": "Shell",
+                "last_commit": "2026-08-03T15:26:34Z",
+                "owner": "phusion",
+                "repo": "traveling-ruby",
+                "stars": 2137
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gtk-rs",
+              "description": "Rust bindings for GTK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186402701,
+                "language": "Rust",
+                "last_commit": "2026-08-24T07:15:23Z",
+                "owner": "gtk-rs",
+                "repo": "gtk4-rs",
+                "stars": 2335
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tauri",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196701619,
+                "language": "Rust",
+                "last_commit": "2026-08-21T21:34:35Z",
+                "owner": "tauri-apps",
+                "repo": "tauri",
+                "stars": 110520
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tauri",
+              "description": "and/or",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196701619,
+                "language": "Rust",
+                "last_commit": "2026-08-21T21:34:35Z",
+                "owner": "tauri-apps",
+                "repo": "tauri",
+                "stars": 110520
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPUI",
+              "description": "A fast, productive UI framework for Rust from the creators of Zed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 340547520,
+                "language": "Rust",
+                "last_commit": "2026-08-24T13:21:33Z",
+                "owner": "zed-industries",
+                "repo": "zed",
+                "stars": 89138
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 436660468,
+                "language": "C",
+                "last_commit": "2026-07-30T03:32:53Z",
+                "owner": "pisaiah",
+                "repo": "ui",
+                "stars": 158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 436660468,
+                "language": "C",
+                "last_commit": "2026-07-30T03:32:53Z",
+                "owner": "pisaiah",
+                "repo": "ui",
+                "stars": 158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 508776265,
+                "language": "V",
+                "last_commit": "2024-08-18T10:19:20Z",
+                "owner": "malisipi",
+                "repo": "mui",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 508776265,
+                "language": "V",
+                "last_commit": "2024-08-18T10:19:20Z",
+                "owner": "malisipi",
+                "repo": "mui",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "viup",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 303896012,
+                "language": "HTML",
+                "last_commit": "2024-01-05T12:53:08Z",
+                "owner": "kjlaw89",
+                "repo": "viup",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "viup",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 303896012,
+                "language": "HTML",
+                "last_commit": "2024-01-05T12:53:08Z",
+                "owner": "kjlaw89",
+                "repo": "viup",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vi-v",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262271999,
+                "language": "V",
+                "last_commit": "2021-01-08T15:04:22Z",
+                "owner": "nocturlab",
+                "repo": "vi-v",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vi-v",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262271999,
+                "language": "V",
+                "last_commit": "2021-01-08T15:04:22Z",
+                "owner": "nocturlab",
+                "repo": "vi-v",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vxui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 641959374,
+                "language": "JavaScript",
+                "last_commit": "2026-08-22T11:37:35Z",
+                "owner": "kbkpbot",
+                "repo": "vxui",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vxui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 641959374,
+                "language": "JavaScript",
+                "last_commit": "2026-08-22T11:37:35Z",
+                "owner": "kbkpbot",
+                "repo": "vxui",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "V"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Blockly",
+              "description": "Blockly is a visual programming editor by Google that uses drag-and-drop blocks. It's the engine that powers the most popular coding education programs world.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 508776265,
+                "language": "V",
+                "last_commit": "2024-08-18T10:19:20Z",
+                "owner": "malisipi",
+                "repo": "mui",
+                "stars": 111
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Visual programming"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zero-native",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1233290067,
+                "language": "Zig",
+                "last_commit": "2026-08-24T13:41:33Z",
+                "owner": "vercel-labs",
+                "repo": "native",
+                "stars": 7562
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "native",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1233290067,
+                "language": "Zig",
+                "last_commit": "2026-08-24T13:41:33Z",
+                "owner": "vercel-labs",
+                "repo": "native",
+                "stars": 7562
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Zig"
+        }
+      ],
+      "title": "👓 Alternatives to the Electron.js ⚛"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -98,7 +2957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:26:39.363Z",
+    "last_updated": "2026-08-24T14:07:25.027Z",
     "original_repository": "sudhakar3697/awesome-electron-alternatives",
     "original_repository_id": 204777333,
     "original_repository_sha": "f34b062aaefe63e546a4bcd3931edc14ed6cbb49",
