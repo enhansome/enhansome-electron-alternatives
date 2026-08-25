@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T23:07:14Z",
                 "owner": "AvaloniaUI",
                 "repo": "Avalonia",
-                "stars": 31382
+                "stars": 31381
               }
             },
             {
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 132453438,
                 "language": "C#",
-                "last_commit": "2026-08-25T05:46:30Z",
+                "last_commit": "2026-08-25T06:35:41Z",
                 "owner": "unoplatform",
                 "repo": "uno",
                 "stars": 10018
@@ -410,10 +410,10 @@
                 "archived": false,
                 "id": 31792824,
                 "language": "Dart",
-                "last_commit": "2026-08-25T05:39:42Z",
+                "last_commit": "2026-08-25T06:14:25Z",
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 178643
+                "stars": 178644
               }
             }
           ],
@@ -2602,7 +2602,7 @@
                 "last_commit": "2026-08-24T19:34:36Z",
                 "owner": "tauri-apps",
                 "repo": "tauri",
-                "stars": 110532
+                "stars": 110534
               }
             },
             {
@@ -2617,7 +2617,7 @@
                 "last_commit": "2026-08-24T19:34:36Z",
                 "owner": "tauri-apps",
                 "repo": "tauri",
-                "stars": 110532
+                "stars": 110534
               }
             },
             {
@@ -2629,10 +2629,10 @@
                 "archived": false,
                 "id": 340547520,
                 "language": "Rust",
-                "last_commit": "2026-08-25T05:46:12Z",
+                "last_commit": "2026-08-25T06:23:49Z",
                 "owner": "zed-industries",
                 "repo": "zed",
-                "stars": 89173
+                "stars": 89172
               }
             }
           ],
@@ -2957,7 +2957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:58:54.586Z",
+    "last_updated": "2026-08-25T06:39:28.268Z",
     "original_repository": "sudhakar3697/awesome-electron-alternatives",
     "original_repository_id": 204777333,
     "original_repository_sha": "f34b062aaefe63e546a4bcd3931edc14ed6cbb49",
