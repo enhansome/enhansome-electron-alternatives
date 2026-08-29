@@ -12,12 +12,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI",
+                "homepage": "https://avaloniaui.net",
                 "id": 14964475,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T16:47:43Z",
+                "open_issues": 1893,
                 "owner": "AvaloniaUI",
                 "repo": "Avalonia",
-                "stars": 31409
+                "stars": 31412,
+                "topics": [
+                  "android",
+                  "app-framework",
+                  "avalonia",
+                  "avaloniaui",
+                  "browser",
+                  "c-sharp",
+                  "cross-platform",
+                  "csharp",
+                  "desktop",
+                  "dotnet",
+                  "gui",
+                  "ios",
+                  "linux",
+                  "macos",
+                  "mobile",
+                  "mvvm",
+                  "wasm",
+                  "windows",
+                  "xamarin",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -28,12 +54,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source platform for building cross-platform native Mobile, Web, Desktop, and Embedded apps from a single C#/XAML codebase. Work from any IDE/CLI with Hot Reload, Visual Designer, MCPs, and Skills built for modern .NET workflows. 200M+ NuGet downloads.",
+                "homepage": "https://platform.uno",
                 "id": 132453438,
                 "language": "C#",
-                "last_commit": "2026-08-28T17:16:03Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:10:43Z",
+                "open_issues": 1598,
                 "owner": "unoplatform",
                 "repo": "uno",
-                "stars": 10020
+                "stars": 10020,
+                "topics": [
+                  "android",
+                  "c-sharp",
+                  "cross-platform",
+                  "csharp",
+                  "dotnet",
+                  "hacktoberfest",
+                  "linux",
+                  "macos",
+                  "mono",
+                  "mvvm",
+                  "roslyn",
+                  "uno",
+                  "uno-platform",
+                  "uwp",
+                  "wasm",
+                  "webassembly",
+                  "windows",
+                  "winui",
+                  "xamarin",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -44,12 +96,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)",
+                "homepage": null,
                 "id": 103043228,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-01-15T23:12:16Z",
+                "open_issues": 6,
                 "owner": "chromelyapps",
                 "repo": "Chromely",
-                "stars": 2972
+                "stars": 2972,
+                "topics": [
+                  "angular",
+                  "asp-net-core",
+                  "asp-net-core-mvc",
+                  "asp-net-core-razor-pages",
+                  "blazor",
+                  "browser",
+                  "c-sharp",
+                  "cef",
+                  "cefglue",
+                  "cefsharp",
+                  "chromium",
+                  "cross-platform",
+                  "desktop",
+                  "dotnet",
+                  "electron",
+                  "html5",
+                  "owin",
+                  "react",
+                  "vue",
+                  "winapi"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -60,12 +138,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)",
+                "homepage": null,
                 "id": 103043228,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-01-15T23:12:16Z",
+                "open_issues": 6,
                 "owner": "chromelyapps",
                 "repo": "Chromely",
-                "stars": 2972
+                "stars": 2972,
+                "topics": [
+                  "angular",
+                  "asp-net-core",
+                  "asp-net-core-mvc",
+                  "asp-net-core-razor-pages",
+                  "blazor",
+                  "browser",
+                  "c-sharp",
+                  "cef",
+                  "cefglue",
+                  "cefsharp",
+                  "chromium",
+                  "cross-platform",
+                  "desktop",
+                  "dotnet",
+                  "electron",
+                  "html5",
+                  "owin",
+                  "react",
+                  "vue",
+                  "winapi"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -76,12 +180,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Cross platform .Net Core applications with a webview UI",
+                "homepage": null,
                 "id": 164701838,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-10T11:54:02Z",
+                "open_issues": 12,
                 "owner": "ABildstein",
                 "repo": "SpiderEye",
-                "stars": 245
+                "stars": 245,
+                "topics": [
+                  "cross-platform",
+                  "netcore",
+                  "ui",
+                  "webview"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -92,12 +206,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Cross platform .Net Core applications with a webview UI",
+                "homepage": null,
                 "id": 164701838,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-10T11:54:02Z",
+                "open_issues": 12,
                 "owner": "ABildstein",
                 "repo": "SpiderEye",
-                "stars": 245
+                "stars": 245,
+                "topics": [
+                  "cross-platform",
+                  "netcore",
+                  "ui",
+                  "webview"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -108,12 +232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://tryphotino.io",
                 "id": 329743512,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-26T15:15:41Z",
+                "open_issues": 44,
                 "owner": "tryphotino",
                 "repo": "photino.NET",
-                "stars": 1328
+                "stars": 1328,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -124,12 +253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://tryphotino.io",
                 "id": 329743512,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-26T15:15:41Z",
+                "open_issues": 44,
                 "owner": "tryphotino",
                 "repo": "photino.NET",
-                "stars": 1328
+                "stars": 1328,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -140,12 +274,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prototype for an electron alternative written in C# by Integrative Software LLC and contributors.",
+                "homepage": null,
                 "id": 187287400,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-12T03:46:36Z",
+                "open_issues": 3,
                 "owner": "integrativesoft",
                 "repo": "foton",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -156,12 +295,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prototype for an electron alternative written in C# by Integrative Software LLC and contributors.",
+                "homepage": null,
                 "id": 187287400,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-12T03:46:36Z",
+                "open_issues": 3,
                 "owner": "integrativesoft",
                 "repo": "foton",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -172,12 +316,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern evolution of Photino, enabling lightweight, high-performance cross-platform desktop apps with .NET",
+                "homepage": "http://docs.infiniframe.dev/",
                 "id": 1058522977,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T16:16:05Z",
+                "open_issues": 3,
                 "owner": "InfiniLore",
                 "repo": "InfiniFrame",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -188,12 +337,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern evolution of Photino, enabling lightweight, high-performance cross-platform desktop apps with .NET",
+                "homepage": "http://docs.infiniframe.dev/",
                 "id": 1058522977,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T16:16:05Z",
+                "open_issues": 3,
                 "owner": "InfiniLore",
                 "repo": "InfiniFrame",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -211,12 +365,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).",
+                "homepage": null,
                 "id": 100781035,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-03-09T07:51:25Z",
+                "open_issues": 210,
                 "owner": "webview",
                 "repo": "webview",
-                "stars": 14214
+                "stars": 14214,
+                "topics": [
+                  "c",
+                  "cpp",
+                  "cross-platform",
+                  "css",
+                  "gtk",
+                  "gui",
+                  "html",
+                  "javascript",
+                  "library",
+                  "single-header-lib",
+                  "web",
+                  "webkit",
+                  "webui",
+                  "webview",
+                  "webview2"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -227,12 +402,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).",
+                "homepage": null,
                 "id": 100781035,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-03-09T07:51:25Z",
+                "open_issues": 210,
                 "owner": "webview",
                 "repo": "webview",
-                "stars": 14214
+                "stars": 14214,
+                "topics": [
+                  "c",
+                  "cpp",
+                  "cross-platform",
+                  "css",
+                  "gtk",
+                  "gui",
+                  "html",
+                  "javascript",
+                  "library",
+                  "single-header-lib",
+                  "web",
+                  "webkit",
+                  "webui",
+                  "webview",
+                  "webview2"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -243,12 +439,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛸 A modern, cross-platform C++ webview library",
+                "homepage": "https://saucer.github.io/",
                 "id": 395748812,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-08T16:03:32Z",
+                "open_issues": 4,
                 "owner": "saucer",
                 "repo": "saucer",
-                "stars": 918
+                "stars": 919,
+                "topics": [
+                  "cocoa",
+                  "cpp",
+                  "cpp-library",
+                  "cpp-reflection",
+                  "cpp23",
+                  "cpp23-library",
+                  "cpplibrary",
+                  "cross-platform",
+                  "electron-alternative",
+                  "gtk4",
+                  "libadwaita",
+                  "lightweight",
+                  "qt6",
+                  "qwebengine",
+                  "webkitgtk",
+                  "webkitgtk-6",
+                  "webview",
+                  "webview-library",
+                  "webview2",
+                  "wkwebview"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -259,12 +481,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛸 A modern, cross-platform C++ webview library",
+                "homepage": "https://saucer.github.io/",
                 "id": 395748812,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-08T16:03:32Z",
+                "open_issues": 4,
                 "owner": "saucer",
                 "repo": "saucer",
-                "stars": 918
+                "stars": 919,
+                "topics": [
+                  "cocoa",
+                  "cpp",
+                  "cpp-library",
+                  "cpp-reflection",
+                  "cpp23",
+                  "cpp23-library",
+                  "cpplibrary",
+                  "cross-platform",
+                  "electron-alternative",
+                  "gtk4",
+                  "libadwaita",
+                  "lightweight",
+                  "qt6",
+                  "qwebengine",
+                  "webkitgtk",
+                  "webkitgtk-6",
+                  "webview",
+                  "webview-library",
+                  "webview2",
+                  "wkwebview"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -275,12 +523,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny alternative to electron",
+                "homepage": null,
                 "id": 280580167,
                 "language": "Makefile",
+                "license": "MIT",
                 "last_commit": "2026-03-11T08:13:14Z",
+                "open_issues": 10,
                 "owner": "Rafi993",
                 "repo": "tiny",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "electron",
+                  "js"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -291,12 +547,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny alternative to electron",
+                "homepage": null,
                 "id": 280580167,
                 "language": "Makefile",
+                "license": "MIT",
                 "last_commit": "2026-03-11T08:13:14Z",
+                "open_issues": 10,
                 "owner": "Rafi993",
                 "repo": "tiny",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "electron",
+                  "js"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -307,12 +571,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A native alternative to the heavy Electron Unity Hub, written in C++",
+                "homepage": "http://www.ravbug.com/UnityHubNative/",
                 "id": 206668792,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-08T20:08:59Z",
+                "open_issues": 12,
                 "owner": "Ravbug",
                 "repo": "UnityHubNative",
-                "stars": 551
+                "stars": 551,
+                "topics": [
+                  "alternative",
+                  "cpp",
+                  "game-development",
+                  "game-engine",
+                  "indiedev",
+                  "launcher",
+                  "lightweight",
+                  "native",
+                  "project-manager",
+                  "unity3d",
+                  "unityhub",
+                  "wxwidgets-applications"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -323,12 +605,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A native alternative to the heavy Electron Unity Hub, written in C++",
+                "homepage": "http://www.ravbug.com/UnityHubNative/",
                 "id": 206668792,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-08T20:08:59Z",
+                "open_issues": 12,
                 "owner": "Ravbug",
                 "repo": "UnityHubNative",
-                "stars": 551
+                "stars": 551,
+                "topics": [
+                  "alternative",
+                  "cpp",
+                  "game-development",
+                  "game-engine",
+                  "indiedev",
+                  "launcher",
+                  "lightweight",
+                  "native",
+                  "project-manager",
+                  "unity3d",
+                  "unityhub",
+                  "wxwidgets-applications"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -339,12 +639,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight engine and API for making cross platform desktop applications with web technology.",
+                "homepage": "https://spur27.github.io/RenWeb-Engine/",
                 "id": 997519791,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-04-26T18:22:27Z",
+                "open_issues": 0,
                 "owner": "spur27",
                 "repo": "RenWeb-Engine",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "cpp",
+                  "cross-platform",
+                  "desktop-app",
+                  "html-css-js",
+                  "javascript",
+                  "native-gui",
+                  "webkit",
+                  "webkitgtk",
+                  "webview",
+                  "webview2",
+                  "wkwebview"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -355,12 +672,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight engine and API for making cross platform desktop applications with web technology.",
+                "homepage": "https://spur27.github.io/RenWeb-Engine/",
                 "id": 997519791,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-04-26T18:22:27Z",
+                "open_issues": 0,
                 "owner": "spur27",
                 "repo": "RenWeb-Engine",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "cpp",
+                  "cross-platform",
+                  "desktop-app",
+                  "html-css-js",
+                  "javascript",
+                  "native-gui",
+                  "webkit",
+                  "webkitgtk",
+                  "webview",
+                  "webview2",
+                  "wkwebview"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -378,12 +712,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crystal bindings to Webview library",
+                "homepage": null,
                 "id": 266604114,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-06-24T14:16:47Z",
+                "open_issues": 4,
                 "owner": "naqvis",
                 "repo": "webview",
-                "stars": 107
+                "stars": 107,
+                "topics": [
+                  "crystal",
+                  "crystal-bindings",
+                  "crystal-lang",
+                  "crystal-language",
+                  "shard",
+                  "webview",
+                  "webview-library"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -394,12 +741,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).",
+                "homepage": null,
                 "id": 100781035,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-03-09T07:51:25Z",
+                "open_issues": 210,
                 "owner": "webview",
                 "repo": "webview",
-                "stars": 14214
+                "stars": 14214,
+                "topics": [
+                  "c",
+                  "cpp",
+                  "cross-platform",
+                  "css",
+                  "gtk",
+                  "gui",
+                  "html",
+                  "javascript",
+                  "library",
+                  "single-header-lib",
+                  "web",
+                  "webkit",
+                  "webui",
+                  "webview",
+                  "webview2"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -410,12 +778,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crystal bindings to Webview library",
+                "homepage": null,
                 "id": 266604114,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-06-24T14:16:47Z",
+                "open_issues": 4,
                 "owner": "naqvis",
                 "repo": "webview",
-                "stars": 107
+                "stars": 107,
+                "topics": [
+                  "crystal",
+                  "crystal-bindings",
+                  "crystal-lang",
+                  "crystal-language",
+                  "shard",
+                  "webview",
+                  "webview-library"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -433,12 +814,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+                "homepage": "https://flutter.dev",
                 "id": 31792824,
                 "language": "Dart",
-                "last_commit": "2026-08-28T17:27:41Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-29T04:03:25Z",
+                "open_issues": 13196,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 178692
+                "stars": 178700,
+                "topics": [
+                  "android",
+                  "app-framework",
+                  "cross-platform",
+                  "dart",
+                  "dart-platform",
+                  "desktop",
+                  "flutter",
+                  "flutter-package",
+                  "fuchsia",
+                  "ios",
+                  "linux-desktop",
+                  "macos",
+                  "material-design",
+                  "mobile",
+                  "mobile-development",
+                  "skia",
+                  "web",
+                  "web-framework",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -456,12 +862,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UI library for making web applications with Elm",
+                "homepage": "https://elm-ui.netlify.com",
                 "id": 47490165,
                 "language": "Elm",
+                "license": "BSD-2-Clause",
                 "last_commit": "2020-11-03T12:58:03Z",
+                "open_issues": 28,
                 "owner": "gdotdesign",
                 "repo": "elm-ui",
-                "stars": 923
+                "stars": 923,
+                "topics": [
+                  "component-library",
+                  "components",
+                  "elm",
+                  "elm-ui",
+                  "ui-components",
+                  "ui-kit"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -479,12 +897,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build cross-platform modern desktop apps in Go + HTML5",
+                "homepage": null,
                 "id": 156127781,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-08-19T06:48:40Z",
+                "open_issues": 77,
                 "owner": "zserge",
                 "repo": "lorca",
-                "stars": 8204
+                "stars": 8204,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -495,12 +918,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build cross-platform modern desktop apps in Go + HTML5",
+                "homepage": null,
                 "id": 156127781,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-08-19T06:48:40Z",
+                "open_issues": 77,
                 "owner": "zserge",
                 "repo": "lorca",
-                "stars": 8204
+                "stars": 8204,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -511,12 +939,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create beautiful applications using Go",
+                "homepage": "https://wails.io",
                 "id": 161951219,
                 "language": "Go",
-                "last_commit": "2026-08-28T02:55:04Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:25:22Z",
+                "open_issues": 302,
                 "owner": "wailsapp",
                 "repo": "wails",
-                "stars": 36032
+                "stars": 36031,
+                "topics": [
+                  "angular",
+                  "desktop-application",
+                  "go",
+                  "golang",
+                  "javascript",
+                  "linux",
+                  "macos",
+                  "react",
+                  "svelte",
+                  "vuejs",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -527,12 +972,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create beautiful applications using Go",
+                "homepage": "https://wails.io",
                 "id": 161951219,
                 "language": "Go",
-                "last_commit": "2026-08-28T02:55:04Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:25:22Z",
+                "open_issues": 302,
                 "owner": "wailsapp",
                 "repo": "wails",
-                "stars": 36032
+                "stars": 36031,
+                "topics": [
+                  "angular",
+                  "desktop-application",
+                  "go",
+                  "golang",
+                  "javascript",
+                  "linux",
+                  "macos",
+                  "react",
+                  "svelte",
+                  "vuejs",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -543,12 +1005,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GPU based Electron on a diet",
+                "homepage": null,
                 "id": 211175643,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-03-15T06:02:13Z",
+                "open_issues": 27,
                 "owner": "ImVexed",
                 "repo": "muon",
-                "stars": 2942
+                "stars": 2942,
+                "topics": [
+                  "cross-platform",
+                  "desktop",
+                  "electron",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -559,12 +1031,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GPU based Electron on a diet",
+                "homepage": null,
                 "id": 211175643,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-03-15T06:02:13Z",
+                "open_issues": 27,
                 "owner": "ImVexed",
                 "repo": "muon",
-                "stars": 2942
+                "stars": 2942,
+                "topics": [
+                  "cross-platform",
+                  "desktop",
+                  "electron",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -575,12 +1057,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross platform GUI toolkit in Go inspired by Material Design",
+                "homepage": "https://fyne.io/",
                 "id": 120227732,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-26T13:25:07Z",
+                "open_issues": 731,
                 "owner": "fyne-io",
                 "repo": "fyne",
-                "stars": 28644
+                "stars": 28645,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "fyne",
+                  "go",
+                  "golang",
+                  "gui",
+                  "hacktoberfest",
+                  "ios",
+                  "theme",
+                  "toolkit"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -591,12 +1089,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross platform GUI toolkit in Go inspired by Material Design",
+                "homepage": "https://fyne.io/",
                 "id": 120227732,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-26T13:25:07Z",
+                "open_issues": 731,
                 "owner": "fyne-io",
                 "repo": "fyne",
-                "stars": 28644
+                "stars": 28645,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "fyne",
+                  "go",
+                  "golang",
+                  "gui",
+                  "hacktoberfest",
+                  "ios",
+                  "theme",
+                  "toolkit"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -614,12 +1128,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PS/TK version (https://wiki.tcl-lang.org/page/PS%2FTk) fixed to work fine on modern GNU Guile",
+                "homepage": null,
                 "id": 433902134,
                 "language": "Scheme",
+                "license": "NOASSERTION",
                 "last_commit": "2022-03-18T19:34:06Z",
+                "open_issues": 1,
                 "owner": "KikyTokamuro",
                 "repo": "guile-pstk",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "guile",
+                  "pstk",
+                  "scheme",
+                  "tcltk",
+                  "tk",
+                  "wish"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -630,12 +1156,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PS/TK version (https://wiki.tcl-lang.org/page/PS%2FTk) fixed to work fine on modern GNU Guile",
+                "homepage": null,
                 "id": 433902134,
                 "language": "Scheme",
+                "license": "NOASSERTION",
                 "last_commit": "2022-03-18T19:34:06Z",
+                "open_issues": 1,
                 "owner": "KikyTokamuro",
                 "repo": "guile-pstk",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "guile",
+                  "pstk",
+                  "scheme",
+                  "tcltk",
+                  "tk",
+                  "wish"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -646,12 +1184,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wrapper for using libwebview from GNU Guile ",
+                "homepage": null,
                 "id": 514375678,
                 "language": "Scheme",
+                "license": "MIT",
                 "last_commit": "2025-03-15T22:21:49Z",
+                "open_issues": 0,
                 "owner": "KikyTokamuro",
                 "repo": "guile-webview",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "guile",
+                  "scheme",
+                  "webview"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -662,12 +1209,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wrapper for using libwebview from GNU Guile ",
+                "homepage": null,
                 "id": 514375678,
                 "language": "Scheme",
+                "license": "MIT",
                 "last_commit": "2025-03-15T22:21:49Z",
+                "open_issues": 0,
                 "owner": "KikyTokamuro",
                 "repo": "guile-webview",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "guile",
+                  "scheme",
+                  "webview"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -685,12 +1241,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keera Hails: Haskell on Rails - Reactive Programming Framework for Interactive Haskell applications",
+                "homepage": null,
                 "id": 4675069,
                 "language": "Haskell",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-05T08:30:03Z",
+                "open_issues": 8,
                 "owner": "keera-studios",
                 "repo": "keera-hails",
-                "stars": 205
+                "stars": 205,
+                "topics": [
+                  "android",
+                  "frp",
+                  "functional-reactive-programming",
+                  "ghcjs",
+                  "gtk",
+                  "haskell",
+                  "ios",
+                  "mvc",
+                  "qt",
+                  "reactive-values",
+                  "rvs",
+                  "web",
+                  "wx",
+                  "yampa"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -701,12 +1277,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keera Hails: Haskell on Rails - Reactive Programming Framework for Interactive Haskell applications",
+                "homepage": null,
                 "id": 4675069,
                 "language": "Haskell",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-05T08:30:03Z",
+                "open_issues": 8,
                 "owner": "keera-studios",
                 "repo": "keera-hails",
-                "stars": 205
+                "stars": 205,
+                "topics": [
+                  "android",
+                  "frp",
+                  "functional-reactive-programming",
+                  "ghcjs",
+                  "gtk",
+                  "haskell",
+                  "ios",
+                  "mvc",
+                  "qt",
+                  "reactive-values",
+                  "rvs",
+                  "web",
+                  "wx",
+                  "yampa"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -717,12 +1313,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GUI framework that uses the web browser as a display.",
+                "homepage": "https://heinrichapfelmus.github.io/threepenny-gui/",
                 "id": 3046496,
                 "language": "Haskell",
+                "license": null,
                 "last_commit": "2025-10-16T11:25:20Z",
+                "open_issues": 53,
                 "owner": "HeinrichApfelmus",
                 "repo": "threepenny-gui",
-                "stars": 500
+                "stars": 500,
+                "topics": [
+                  "gui",
+                  "haskell",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -733,12 +1338,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy to use, cross platform, GUI library for writing Haskell applications.",
+                "homepage": null,
                 "id": 210380285,
                 "language": "Haskell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-01-04T03:13:30Z",
+                "open_issues": 46,
                 "owner": "fjvallarino",
                 "repo": "monomer",
-                "stars": 662
+                "stars": 662,
+                "topics": [
+                  "cross-platform",
+                  "gui",
+                  "haskell",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -749,12 +1364,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy to use, cross platform, GUI library for writing Haskell applications.",
+                "homepage": null,
                 "id": 210380285,
                 "language": "Haskell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-01-04T03:13:30Z",
+                "open_issues": 46,
                 "owner": "fjvallarino",
                 "repo": "monomer",
-                "stars": 662
+                "stars": 662,
+                "topics": [
+                  "cross-platform",
+                  "gui",
+                  "haskell",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -772,12 +1397,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaFX mainline development",
+                "homepage": "https://openjdk.org/projects/openjfx/",
                 "id": 185199202,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-27T17:53:11Z",
+                "open_issues": 51,
                 "owner": "openjdk",
                 "repo": "jfx",
-                "stars": 3282
+                "stars": 3282,
+                "topics": [
+                  "java",
+                  "javafx",
+                  "openjdk",
+                  "openjfx"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -788,12 +1423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":iphone: Este é um projeto modelo para o Android Studio que permite criar um aplicativo de Webview do Android em questão de minutos.",
+                "homepage": "https://ronysfreitas.github.io/webview/",
                 "id": 88766799,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-04-20T12:21:29Z",
+                "open_issues": 1,
                 "owner": "ronysfreitas",
                 "repo": "webview",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -804,12 +1444,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Electron Vaadin Hilla Template - create a desktop app using React for the UI and Java for the application logic",
+                "homepage": null,
                 "id": 952650785,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-03-28T02:28:01Z",
+                "open_issues": 0,
                 "owner": "MarciaBM",
                 "repo": "electron-vaadin-hilla-template",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "desktop-app",
+                  "electron",
+                  "hilla",
+                  "java",
+                  "maven",
+                  "react",
+                  "skeleton",
+                  "template",
+                  "typescript",
+                  "vaadin"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -827,12 +1483,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Desktop runtime for apps built on web technologies, using the system's own web browser engine",
+                "homepage": null,
                 "id": 90042534,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-12-07T18:00:46Z",
+                "open_issues": 21,
                 "owner": "pojala",
                 "repo": "electrino",
-                "stars": 4396
+                "stars": 4396,
+                "topics": [
+                  "desktop",
+                  "electron",
+                  "electronjs",
+                  "javascript",
+                  "macos",
+                  "webkit"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -843,12 +1511,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Desktop runtime for apps built on web technologies, using the system's own web browser engine",
+                "homepage": null,
                 "id": 90042534,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-12-07T18:00:46Z",
+                "open_issues": 21,
                 "owner": "pojala",
                 "repo": "electrino",
-                "stars": 4396
+                "stars": 4396,
+                "topics": [
+                  "desktop",
+                  "electron",
+                  "electronjs",
+                  "javascript",
+                  "macos",
+                  "webkit"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -859,12 +1539,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nidium is an ongoing effort for a mobile hw-accelerated rendering engine to create apps and games. Embedding Mozilla JavaScript VM, Google Skia, Facebook Yoga.  https://twitter.com/nidiumproject for updates",
+                "homepage": "https://www.nidium.com",
                 "id": 59298641,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2019-11-12T18:23:08Z",
+                "open_issues": 44,
                 "owner": "nidium",
                 "repo": "Nidium",
-                "stars": 1142
+                "stars": 1142,
+                "topics": [
+                  "2d-canvas",
+                  "c-plus-plus",
+                  "canvas2d",
+                  "javascript",
+                  "layout-engine",
+                  "linux",
+                  "macos",
+                  "mozilla",
+                  "rendering",
+                  "skia",
+                  "spidermonkey",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -875,12 +1573,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run modern code in an HTML Application",
+                "homepage": null,
                 "id": 122618354,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-25T16:03:53Z",
+                "open_issues": 0,
                 "owner": "joncasey",
                 "repo": "modern-hta",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "babel",
+                  "es2015",
+                  "es6",
+                  "hta",
+                  "modern"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -891,12 +1600,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run modern code in an HTML Application",
+                "homepage": null,
                 "id": 122618354,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-25T16:03:53Z",
+                "open_issues": 0,
                 "owner": "joncasey",
                 "repo": "modern-hta",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "babel",
+                  "es2015",
+                  "es6",
+                  "hta",
+                  "modern"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -907,12 +1627,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Desktop port of React Native, driven by Qt, forked from Canonical",
+                "homepage": null,
                 "id": 98602175,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-07-09T00:16:40Z",
+                "open_issues": 101,
                 "owner": "status-im",
                 "repo": "react-native-desktop-qt",
-                "stars": 1247
+                "stars": 1247,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -923,12 +1648,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org",
+                "homepage": "http://docs.nodegui.org",
                 "id": 186662363,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-05-03T17:50:16Z",
+                "open_issues": 98,
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9226
+                "stars": 9226,
+                "topics": [
+                  "cross-platform",
+                  "desktop",
+                  "gui",
+                  "javascript",
+                  "nodejs",
+                  "openlibrary",
+                  "qt"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -939,12 +1677,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀",
+                "homepage": "https://react.nodegui.org",
                 "id": 193393505,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-11-03T01:50:26Z",
+                "open_issues": 53,
                 "owner": "nodegui",
                 "repo": "react-nodegui",
-                "stars": 6181
+                "stars": 6182,
+                "topics": [
+                  "css",
+                  "desktop",
+                  "gui",
+                  "native",
+                  "nodejs",
+                  "openlibrary",
+                  "qt",
+                  "react",
+                  "react-desktop"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -955,12 +1708,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org",
+                "homepage": "http://docs.nodegui.org",
                 "id": 186662363,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-05-03T17:50:16Z",
+                "open_issues": 98,
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9226
+                "stars": 9226,
+                "topics": [
+                  "cross-platform",
+                  "desktop",
+                  "gui",
+                  "javascript",
+                  "nodejs",
+                  "openlibrary",
+                  "qt"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -971,12 +1737,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make Desktop apps with Deno 🦕",
+                "homepage": "https://astrodon.land",
                 "id": 443840726,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-26T14:45:16Z",
+                "open_issues": 11,
                 "owner": "astrodon",
                 "repo": "astrodon",
-                "stars": 1023
+                "stars": 1023,
+                "topics": [
+                  "astrodon",
+                  "deno",
+                  "javascript",
+                  "rust",
+                  "tauri",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -987,12 +1765,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make Desktop apps with Deno 🦕",
+                "homepage": "https://astrodon.land",
                 "id": 443840726,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-26T14:45:16Z",
+                "open_issues": 11,
                 "owner": "astrodon",
                 "repo": "astrodon",
-                "stars": 1023
+                "stars": 1023,
+                "topics": [
+                  "astrodon",
+                  "deno",
+                  "javascript",
+                  "rust",
+                  "tauri",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1003,12 +1793,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs",
+                "homepage": "https://deno.land/x/webview",
                 "id": 245254578,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-02-25T09:19:36Z",
+                "open_issues": 43,
                 "owner": "webview",
                 "repo": "webview_deno",
-                "stars": 1591
+                "stars": 1591,
+                "topics": [
+                  "deno",
+                  "deno-bindings",
+                  "deno-module",
+                  "deno-plugin",
+                  "deno-plugins",
+                  "deno-webview",
+                  "gui",
+                  "hacktoberfest",
+                  "typescript",
+                  "webview"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1019,12 +1825,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs",
+                "homepage": "https://deno.land/x/webview",
                 "id": 245254578,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-02-25T09:19:36Z",
+                "open_issues": 43,
                 "owner": "webview",
                 "repo": "webview_deno",
-                "stars": 1591
+                "stars": 1591,
+                "topics": [
+                  "deno",
+                  "deno-bindings",
+                  "deno-module",
+                  "deno-plugin",
+                  "deno-plugins",
+                  "deno-webview",
+                  "gui",
+                  "hacktoberfest",
+                  "typescript",
+                  "webview"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1035,12 +1857,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A cross-platform desktop app framework based on Node.js and the system webview",
+                "homepage": "https://deskgap.com/",
                 "id": 167922316,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-03-26T02:25:38Z",
+                "open_issues": 58,
                 "owner": "wan9chi",
                 "repo": "DeskGap",
-                "stars": 1813
+                "stars": 1813,
+                "topics": [
+                  "cpp",
+                  "javascript",
+                  "linux",
+                  "macos",
+                  "nodejs",
+                  "typescript",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1051,12 +1886,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.",
+                "homepage": "https://nwjs.io",
                 "id": 3100121,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-19T04:08:07Z",
+                "open_issues": 904,
                 "owner": "nwjs",
                 "repo": "nw.js",
-                "stars": 41160
+                "stars": 41160,
+                "topics": [
+                  "desktop",
+                  "javascript",
+                  "node-webkit",
+                  "nodejs",
+                  "nwjs",
+                  "web-application-framework"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1067,12 +1914,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Portable and lightweight cross-platform desktop application development framework",
+                "homepage": "https://neutralino.js.org",
                 "id": 138368259,
                 "language": "C",
-                "last_commit": "2026-08-28T03:07:21Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T00:37:37Z",
+                "open_issues": 179,
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
-                "stars": 8615
+                "stars": 8615,
+                "topics": [
+                  "c-plus-plus",
+                  "cross-platform",
+                  "css",
+                  "framework",
+                  "hacktoberfest",
+                  "html",
+                  "http-server",
+                  "javascript",
+                  "json",
+                  "native-development",
+                  "neutralinojs"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1083,12 +1947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node bindings for libui, an awesome native UI library for Unix, OSX and Windows",
+                "homepage": null,
                 "id": 59367691,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-07-22T16:46:18Z",
+                "open_issues": 41,
                 "owner": "parro-it",
                 "repo": "libui-node",
-                "stars": 1873
+                "stars": 1873,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1099,12 +1968,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React environment for cross platform desktop apps",
+                "homepage": "https://proton-native.js.org",
                 "id": 111610659,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-07T02:21:10Z",
+                "open_issues": 89,
                 "owner": "kusti8",
                 "repo": "proton-native",
-                "stars": 10885
+                "stars": 10885,
+                "topics": [
+                  "cross-platform",
+                  "desktop",
+                  "js",
+                  "native",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1115,12 +1995,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTML/CSS engine for node.js and deno.",
+                "homepage": "http://tomsik.cz/graffiti",
                 "id": 154177632,
                 "language": "Zig",
+                "license": "MIT",
                 "last_commit": "2023-11-08T17:06:06Z",
+                "open_issues": 2,
                 "owner": "cztomsik",
                 "repo": "graffiti",
-                "stars": 932
+                "stars": 932,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1131,12 +2016,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTML/CSS engine for node.js and deno.",
+                "homepage": "http://tomsik.cz/graffiti",
                 "id": 154177632,
                 "language": "Zig",
+                "license": "MIT",
                 "last_commit": "2023-11-08T17:06:06Z",
+                "open_issues": 2,
                 "owner": "cztomsik",
                 "repo": "graffiti",
-                "stars": 932
+                "stars": 932,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1147,12 +2037,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS",
+                "homepage": "https://gluonjs.org",
                 "id": 575485391,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-08T03:29:05Z",
+                "open_issues": 21,
                 "owner": "gluon-framework",
                 "repo": "gluon",
-                "stars": 3052
+                "stars": 3052,
+                "topics": [
+                  "framework",
+                  "javascript",
+                  "nodejs",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1163,12 +2063,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS",
+                "homepage": "https://gluonjs.org",
                 "id": 575485391,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-08T03:29:05Z",
+                "open_issues": 21,
                 "owner": "gluon-framework",
                 "repo": "gluon",
-                "stars": 3052
+                "stars": 3052,
+                "topics": [
+                  "framework",
+                  "javascript",
+                  "nodejs",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1179,12 +2089,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nodejs addon for Avernakis SDK, use TypeScript to develop modern desktop app with powerful UI kits.",
+                "homepage": "https://qber-soft.github.io/Ave-Nodejs-Docs/",
                 "id": 389320327,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-02-18T06:18:04Z",
+                "open_issues": 0,
                 "owner": "qber-soft",
                 "repo": "Ave-Nodejs",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "desktop-app",
+                  "gui",
+                  "powerful",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1195,12 +2115,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nodejs addon for Avernakis SDK, use TypeScript to develop modern desktop app with powerful UI kits.",
+                "homepage": "https://qber-soft.github.io/Ave-Nodejs-Docs/",
                 "id": 389320327,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-02-18T06:18:04Z",
+                "open_issues": 0,
                 "owner": "qber-soft",
                 "repo": "Ave-Nodejs",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "desktop-app",
+                  "gui",
+                  "powerful",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1211,12 +2141,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WelsonJS - Build a Windows app on the Windows built-in JavaScript engine",
+                "homepage": "https://welson.js.org",
                 "id": 275600068,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T16:03:38Z",
+                "open_issues": 59,
                 "owner": "gnh1201",
                 "repo": "welsonjs",
-                "stars": 483
+                "stars": 484,
+                "topics": [
+                  "agi",
+                  "automation",
+                  "chatgpt",
+                  "chrome",
+                  "copilot",
+                  "desktop",
+                  "grok",
+                  "javascript",
+                  "lolbins",
+                  "mcp",
+                  "microsoft",
+                  "mshta",
+                  "mshtml",
+                  "msoffice",
+                  "rescript",
+                  "rpa",
+                  "scada",
+                  "typescript",
+                  "windows",
+                  "wsh"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1227,12 +2183,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WelsonJS - Build a Windows app on the Windows built-in JavaScript engine",
+                "homepage": "https://welson.js.org",
                 "id": 275600068,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T16:03:38Z",
+                "open_issues": 59,
                 "owner": "gnh1201",
                 "repo": "welsonjs",
-                "stars": 483
+                "stars": 484,
+                "topics": [
+                  "agi",
+                  "automation",
+                  "chatgpt",
+                  "chrome",
+                  "copilot",
+                  "desktop",
+                  "grok",
+                  "javascript",
+                  "lolbins",
+                  "mcp",
+                  "microsoft",
+                  "mshta",
+                  "mshtml",
+                  "msoffice",
+                  "rescript",
+                  "rpa",
+                  "scada",
+                  "typescript",
+                  "windows",
+                  "wsh"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1243,12 +2225,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native desktop applications using Vue.js.",
+                "homepage": "https://vuido.mimec.org/",
                 "id": 133851398,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-01T22:54:33Z",
+                "open_issues": 28,
                 "owner": "mimecorg",
                 "repo": "vuido",
-                "stars": 6053
+                "stars": 6052,
+                "topics": [
+                  "desktop",
+                  "libui",
+                  "vue",
+                  "vuido"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1259,12 +2251,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node bindings for libui, an awesome native UI library for Unix, OSX and Windows",
+                "homepage": null,
                 "id": 59367691,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-07-22T16:46:18Z",
+                "open_issues": 41,
                 "owner": "parro-it",
                 "repo": "libui-node",
-                "stars": 1873
+                "stars": 1873,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1275,12 +2272,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native desktop applications using Vue.js.",
+                "homepage": "https://vuido.mimec.org/",
                 "id": 133851398,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-01T22:54:33Z",
+                "open_issues": 28,
                 "owner": "mimecorg",
                 "repo": "vuido",
-                "stars": 6053
+                "stars": 6052,
+                "topics": [
+                  "desktop",
+                  "libui",
+                  "vue",
+                  "vuido"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1291,12 +2298,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
+                "homepage": "https://quasar.dev",
                 "id": 43695474,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:08:48Z",
+                "open_issues": 214,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27203
+                "stars": 27204,
+                "topics": [
+                  "android",
+                  "browser-extension",
+                  "electron",
+                  "ios",
+                  "javascript",
+                  "material",
+                  "material-components",
+                  "material-design",
+                  "material-theme",
+                  "pwa",
+                  "quasar-framework",
+                  "server-side-rendering",
+                  "ssr",
+                  "vue",
+                  "vue-component",
+                  "vue-components",
+                  "vue3",
+                  "vuejs",
+                  "vuejs3"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1307,12 +2339,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shell for websites, simple web apps / Оболочка для веб-сайтов, простых веб-приложений",
+                "homepage": null,
                 "id": 431461461,
                 "language": "Pascal",
+                "license": null,
                 "last_commit": "2024-10-30T22:03:03Z",
+                "open_issues": 0,
                 "owner": "r57zone",
                 "repo": "ProtonShell",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "applenotes",
+                  "chatgpt",
+                  "electron",
+                  "electron-alternative",
+                  "electron-alternatives",
+                  "electron-app",
+                  "electronjs",
+                  "html-application",
+                  "instagram-client",
+                  "js-app",
+                  "js-game",
+                  "tv-ui",
+                  "twitch",
+                  "twitch-chat",
+                  "twitter-client",
+                  "web-app",
+                  "web-app-generator",
+                  "web-application",
+                  "x-client",
+                  "youtube"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1323,12 +2381,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
+                "homepage": "http://blackboard.sh/electrobun",
                 "id": 764419211,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T18:33:51Z",
+                "open_issues": 100,
                 "owner": "blackboardsh",
                 "repo": "electrobun",
-                "stars": 12717
+                "stars": 12718,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1339,12 +2402,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight desktop app framework for building native applications with TypeScript, HTML, and CSS.",
+                "homepage": "https://www.npmjs.com/package/butterframework",
                 "id": 1190861413,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-22T20:11:05Z",
+                "open_issues": 1,
                 "owner": "wess",
                 "repo": "butter",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "bun",
+                  "cross-platform",
+                  "desktop",
+                  "desktop-app",
+                  "desktop-framework",
+                  "electron-alternative",
+                  "ffi",
+                  "gui",
+                  "ipc",
+                  "linux",
+                  "macos",
+                  "native-apps",
+                  "tauri-alternative",
+                  "typescript",
+                  "webview",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1355,12 +2440,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight desktop app framework for building native applications with TypeScript, HTML, and CSS.",
+                "homepage": "https://www.npmjs.com/package/butterframework",
                 "id": 1190861413,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-22T20:11:05Z",
+                "open_issues": 1,
                 "owner": "wess",
                 "repo": "butter",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "bun",
+                  "cross-platform",
+                  "desktop",
+                  "desktop-app",
+                  "desktop-framework",
+                  "electron-alternative",
+                  "ffi",
+                  "gui",
+                  "ipc",
+                  "linux",
+                  "macos",
+                  "native-apps",
+                  "tauri-alternative",
+                  "typescript",
+                  "webview",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -1378,12 +2485,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Finally, a GUI Engine made for Julia",
+                "homepage": "https://clemens-cords.com/mousetrap",
                 "id": 652248845,
                 "language": "Julia",
+                "license": "LGPL-3.0",
                 "last_commit": "2024-02-28T14:54:55Z",
+                "open_issues": 41,
                 "owner": "Clemapfel",
                 "repo": "Mousetrap.jl",
-                "stars": 456
+                "stars": 456,
+                "topics": [
+                  "adwaita",
+                  "gtk",
+                  "gtk4",
+                  "gui",
+                  "gui-framework",
+                  "gui-frontend",
+                  "gui-frontend-framework",
+                  "julia",
+                  "julia-language",
+                  "julia-package"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1394,12 +2517,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Finally, a GUI Engine made for Julia",
+                "homepage": "https://clemens-cords.com/mousetrap",
                 "id": 652248845,
                 "language": "Julia",
+                "license": "LGPL-3.0",
                 "last_commit": "2024-02-28T14:54:55Z",
+                "open_issues": 41,
                 "owner": "Clemapfel",
                 "repo": "Mousetrap.jl",
-                "stars": 456
+                "stars": 456,
+                "topics": [
+                  "adwaita",
+                  "gtk",
+                  "gtk4",
+                  "gui",
+                  "gui-framework",
+                  "gui-frontend",
+                  "gui-frontend-framework",
+                  "julia",
+                  "julia-language",
+                  "julia-package"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -1417,12 +2556,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+                "homepage": "https://jetbrains.com/lp/compose-multiplatform",
                 "id": 293498508,
                 "language": "Kotlin",
-                "last_commit": "2026-08-28T12:25:51Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:19:06Z",
+                "open_issues": 30,
                 "owner": "JetBrains",
                 "repo": "compose-multiplatform",
-                "stars": 19327
+                "stars": 19326,
+                "topics": [
+                  "android",
+                  "awt",
+                  "compose",
+                  "declarative-ui",
+                  "desktop",
+                  "gui",
+                  "ios",
+                  "javascript",
+                  "kotlin",
+                  "multiplatform",
+                  "reactive",
+                  "swing",
+                  "ui",
+                  "wasm",
+                  "web",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -1440,12 +2601,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GUI library",
+                "homepage": null,
                 "id": 28592033,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2026-07-25T10:46:52Z",
+                "open_issues": 35,
                 "owner": "yglukhov",
                 "repo": "nimx",
-                "stars": 1190
+                "stars": 1190,
+                "topics": [
+                  "nim",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1456,12 +2625,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GUI library",
+                "homepage": null,
                 "id": 28592033,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2026-07-25T10:46:52Z",
+                "open_issues": 35,
                 "owner": "yglukhov",
                 "repo": "nimx",
-                "stars": 1190
+                "stars": 1190,
+                "topics": [
+                  "nim",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1472,12 +2649,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform desktop GUI toolkit written in Nim",
+                "homepage": null,
                 "id": 95961846,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2026-04-07T14:03:17Z",
+                "open_issues": 65,
                 "owner": "simonkrauter",
                 "repo": "NiGui",
-                "stars": 784
+                "stars": 784,
+                "topics": [
+                  "cross-platform",
+                  "gtk",
+                  "gui",
+                  "linux",
+                  "nim",
+                  "toolkit"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1488,12 +2677,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform desktop GUI toolkit written in Nim",
+                "homepage": null,
                 "id": 95961846,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2026-04-07T14:03:17Z",
+                "open_issues": 65,
                 "owner": "simonkrauter",
                 "repo": "NiGui",
-                "stars": 784
+                "stars": 784,
+                "topics": [
+                  "cross-platform",
+                  "gtk",
+                  "gui",
+                  "linux",
+                  "nim",
+                  "toolkit"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1504,12 +2705,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beginnings of what might become Nim's official UI library.",
+                "homepage": null,
                 "id": 60523507,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2023-01-25T19:13:14Z",
+                "open_issues": 18,
                 "owner": "nim-lang",
                 "repo": "ui",
-                "stars": 244
+                "stars": 244,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1520,12 +2726,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beginnings of what might become Nim's official UI library.",
+                "homepage": null,
                 "id": 60523507,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2023-01-25T19:13:14Z",
+                "open_issues": 18,
                 "owner": "nim-lang",
                 "repo": "ui",
-                "stars": 244
+                "stars": 244,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1536,12 +2747,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iup wrapper for Nim. Used to be part of the stdlib, now a Nimble package.",
+                "homepage": null,
                 "id": 44299457,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2021-09-20T12:50:28Z",
+                "open_issues": 4,
                 "owner": "nim-lang",
                 "repo": "iup",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1552,12 +2768,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iup wrapper for Nim. Used to be part of the stdlib, now a Nimble package.",
+                "homepage": null,
                 "id": 44299457,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2021-09-20T12:50:28Z",
+                "open_issues": 4,
                 "owner": "nim-lang",
                 "repo": "iup",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1568,12 +2789,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nim wrapper for SDL 2.x",
+                "homepage": null,
                 "id": 17325360,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2026-04-21T12:31:34Z",
+                "open_issues": 3,
                 "owner": "nim-lang",
                 "repo": "sdl2",
-                "stars": 254
+                "stars": 254,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1584,12 +2810,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nim wrapper for SDL 2.x",
+                "homepage": null,
                 "id": 17325360,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2026-04-21T12:31:34Z",
+                "open_issues": 3,
                 "owner": "nim-lang",
                 "repo": "sdl2",
-                "stars": 254
+                "stars": 254,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1600,12 +2831,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wrapper of the SDL 2 library for the Nim language.",
+                "homepage": null,
                 "id": 12346499,
                 "language": "Nim",
+                "license": "NOASSERTION",
                 "last_commit": "2022-05-07T19:41:43Z",
+                "open_issues": 8,
                 "owner": "Vladar4",
                 "repo": "sdl2_nim",
-                "stars": 148
+                "stars": 148,
+                "topics": [
+                  "nim",
+                  "sdl2",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1616,12 +2856,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wrapper of the SDL 2 library for the Nim language.",
+                "homepage": null,
                 "id": 12346499,
                 "language": "Nim",
+                "license": "NOASSERTION",
                 "last_commit": "2022-05-07T19:41:43Z",
+                "open_issues": 8,
                 "owner": "Vladar4",
                 "repo": "sdl2_nim",
-                "stars": 148
+                "stars": 148,
+                "topics": [
+                  "nim",
+                  "sdl2",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1632,12 +2881,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A declarative user interface framework based on GTK 4",
+                "homepage": "https://can-lehmann.github.io/owlkettle/README",
                 "id": 467682278,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2026-07-20T13:57:14Z",
+                "open_issues": 20,
                 "owner": "can-lehmann",
                 "repo": "owlkettle",
-                "stars": 451
+                "stars": 451,
+                "topics": [
+                  "declarative",
+                  "declarative-ui",
+                  "framework",
+                  "gtk",
+                  "gtk4",
+                  "gui",
+                  "nim",
+                  "ui",
+                  "user-interface"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1648,12 +2912,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A declarative user interface framework based on GTK 4",
+                "homepage": "https://can-lehmann.github.io/owlkettle/README",
                 "id": 467682278,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2026-07-20T13:57:14Z",
+                "open_issues": 20,
                 "owner": "can-lehmann",
                 "repo": "owlkettle",
-                "stars": 451
+                "stars": 451,
+                "topics": [
+                  "declarative",
+                  "declarative-ui",
+                  "framework",
+                  "gtk",
+                  "gtk4",
+                  "gui",
+                  "nim",
+                  "ui",
+                  "user-interface"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1664,12 +2943,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nim's Windows GUI Framework",
+                "homepage": null,
                 "id": 147432038,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2024-07-19T19:48:39Z",
+                "open_issues": 34,
                 "owner": "khchen",
                 "repo": "wNim",
-                "stars": 352
+                "stars": 352,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1680,12 +2964,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nim's Windows GUI Framework",
+                "homepage": null,
                 "id": 147432038,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2024-07-19T19:48:39Z",
+                "open_issues": 34,
                 "owner": "khchen",
                 "repo": "wNim",
-                "stars": 352
+                "stars": 352,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1696,12 +2985,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High level GObject-Introspection based GTK3/GTK4 bindings for Nim language",
+                "homepage": null,
                 "id": 96431457,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2023-05-19T08:16:42Z",
+                "open_issues": 103,
                 "owner": "StefanSalewski",
                 "repo": "gintro",
-                "stars": 301
+                "stars": 301,
+                "topics": [
+                  "bindings",
+                  "gobject-introspection",
+                  "gtk",
+                  "gtk3",
+                  "gtk4",
+                  "much-work",
+                  "nim",
+                  "nim-lang"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1712,12 +3015,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High level GObject-Introspection based GTK3/GTK4 bindings for Nim language",
+                "homepage": null,
                 "id": 96431457,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2023-05-19T08:16:42Z",
+                "open_issues": 103,
                 "owner": "StefanSalewski",
                 "repo": "gintro",
-                "stars": 301
+                "stars": 301,
+                "topics": [
+                  "bindings",
+                  "gobject-introspection",
+                  "gtk",
+                  "gtk3",
+                  "gtk4",
+                  "much-work",
+                  "nim",
+                  "nim-lang"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1728,12 +3045,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Qt Qml bindings for the Nim programming language",
+                "homepage": null,
                 "id": 28595561,
                 "language": "Nim",
+                "license": "NOASSERTION",
                 "last_commit": "2025-02-05T22:47:34Z",
+                "open_issues": 6,
                 "owner": "filcuc",
                 "repo": "nimqml",
-                "stars": 174
+                "stars": 174,
+                "topics": [
+                  "bindings",
+                  "nim",
+                  "qml",
+                  "qt"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1744,12 +3071,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Qt Qml bindings for the Nim programming language",
+                "homepage": null,
                 "id": 28595561,
                 "language": "Nim",
+                "license": "NOASSERTION",
                 "last_commit": "2025-02-05T22:47:34Z",
+                "open_issues": 6,
                 "owner": "filcuc",
                 "repo": "nimqml",
-                "stars": 174
+                "stars": 174,
+                "topics": [
+                  "bindings",
+                  "nim",
+                  "qml",
+                  "qt"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1760,12 +3097,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Nim library for making Electron-like HTML/JS GUI apps, with full access to Nim capabilities.",
+                "homepage": null,
                 "id": 299354262,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2023-11-30T06:29:28Z",
+                "open_issues": 1,
                 "owner": "Niminem",
                 "repo": "Neel",
-                "stars": 252
+                "stars": 252,
+                "topics": [
+                  "desktop-app",
+                  "desktop-application",
+                  "electron",
+                  "electron-app",
+                  "gui",
+                  "gui-application",
+                  "nim",
+                  "nim-gui",
+                  "nim-lang",
+                  "nim-language",
+                  "nim-library"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1776,12 +3130,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Nim library for making Electron-like HTML/JS GUI apps, with full access to Nim capabilities.",
+                "homepage": null,
                 "id": 299354262,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2023-11-30T06:29:28Z",
+                "open_issues": 1,
                 "owner": "Niminem",
                 "repo": "Neel",
-                "stars": 252
+                "stars": 252,
+                "topics": [
+                  "desktop-app",
+                  "desktop-application",
+                  "electron",
+                  "electron-app",
+                  "gui",
+                  "gui-application",
+                  "nim",
+                  "nim-gui",
+                  "nim-lang",
+                  "nim-language",
+                  "nim-library"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1792,12 +3163,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Nim/Webview based helper to create Desktop/Server applications with Nim/C/C++ and HTML/CSS",
+                "homepage": null,
                 "id": 303786129,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2022-09-18T10:25:23Z",
+                "open_issues": 8,
                 "owner": "marcomq",
                 "repo": "nimview",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "c-library",
+                  "cpp-library",
+                  "desktop",
+                  "html",
+                  "http-server",
+                  "nim",
+                  "nim-lang",
+                  "python",
+                  "user-interface",
+                  "webview"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1808,12 +3195,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Nim/Webview based helper to create Desktop/Server applications with Nim/C/C++ and HTML/CSS",
+                "homepage": null,
                 "id": 303786129,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2022-09-18T10:25:23Z",
+                "open_issues": 8,
                 "owner": "marcomq",
                 "repo": "nimview",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "c-library",
+                  "cpp-library",
+                  "desktop",
+                  "html",
+                  "http-server",
+                  "nim",
+                  "nim-lang",
+                  "python",
+                  "user-interface",
+                  "webview"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1824,12 +3227,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web Technologies based Crossplatform GUI Framework with Dark theme",
+                "homepage": "https://juancarlospaco.github.io/webgui",
                 "id": 252902211,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2026-08-17T22:50:46Z",
+                "open_issues": 4,
                 "owner": "juancarlospaco",
                 "repo": "webgui",
-                "stars": 146
+                "stars": 146,
+                "topics": [
+                  "cordova",
+                  "crossplatform-gui",
+                  "css3",
+                  "dark-theme",
+                  "electron",
+                  "electron-app",
+                  "es2020",
+                  "gui",
+                  "gui-framework",
+                  "gui-toolkit",
+                  "high-performance",
+                  "html5",
+                  "javascript",
+                  "lightweight",
+                  "minimalist",
+                  "nim",
+                  "nim-lang",
+                  "node-webkit",
+                  "responsive-design",
+                  "web-technologies"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1840,12 +3269,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web Technologies based Crossplatform GUI Framework with Dark theme",
+                "homepage": "https://juancarlospaco.github.io/webgui",
                 "id": 252902211,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2026-08-17T22:50:46Z",
+                "open_issues": 4,
                 "owner": "juancarlospaco",
                 "repo": "webgui",
-                "stars": 146
+                "stars": 146,
+                "topics": [
+                  "cordova",
+                  "crossplatform-gui",
+                  "css3",
+                  "dark-theme",
+                  "electron",
+                  "electron-app",
+                  "es2020",
+                  "gui",
+                  "gui-framework",
+                  "gui-toolkit",
+                  "high-performance",
+                  "html5",
+                  "javascript",
+                  "lightweight",
+                  "minimalist",
+                  "nim",
+                  "nim-lang",
+                  "node-webkit",
+                  "responsive-design",
+                  "web-technologies"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1856,12 +3311,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Figma based UI library for nim, with HTML and OpenGL backends.",
+                "homepage": null,
                 "id": 165697922,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2026-08-23T22:31:20Z",
+                "open_issues": 49,
                 "owner": "treeform",
                 "repo": "fidget",
-                "stars": 802
+                "stars": 802,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1872,12 +3332,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Figma based UI library for nim, with HTML and OpenGL backends.",
+                "homepage": null,
                 "id": 165697922,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2026-08-23T22:31:20Z",
+                "open_issues": 49,
                 "owner": "treeform",
                 "repo": "fidget",
-                "stars": 802
+                "stars": 802,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1888,12 +3353,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ImGui bindings for Nim via cimgui",
+                "homepage": "https://nimgl.dev/",
                 "id": 191668506,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-12-20T07:21:20Z",
+                "open_issues": 4,
                 "owner": "nimgl",
                 "repo": "imgui",
-                "stars": 151
+                "stars": 151,
+                "topics": [
+                  "bindings",
+                  "cimgui",
+                  "imgui",
+                  "nim",
+                  "nimgl"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1904,12 +3380,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ImGui bindings for Nim via cimgui",
+                "homepage": "https://nimgl.dev/",
                 "id": 191668506,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-12-20T07:21:20Z",
+                "open_issues": 4,
                 "owner": "nimgl",
                 "repo": "imgui",
-                "stars": 151
+                "stars": 151,
+                "topics": [
+                  "bindings",
+                  "cimgui",
+                  "imgui",
+                  "nim",
+                  "nimgl"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1920,12 +3407,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nim wrapper around the AntTweakBar library",
+                "homepage": null,
                 "id": 56339100,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-09-19T09:16:49Z",
+                "open_issues": 0,
                 "owner": "krux02",
                 "repo": "nimAntTweakBar",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1936,12 +3428,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A port of ggplot2 for Nim",
+                "homepage": "https://vindaar.github.io/ggplotnim",
                 "id": 188495430,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2026-02-24T14:19:44Z",
+                "open_issues": 27,
                 "owner": "Vindaar",
                 "repo": "ggplotnim",
-                "stars": 188
+                "stars": 188,
+                "topics": [
+                  "data-visualization",
+                  "ggplot2",
+                  "hacktoberfest",
+                  "nim-lang",
+                  "plot",
+                  "plotting"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1952,12 +3456,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A port of ggplot2 for Nim",
+                "homepage": "https://vindaar.github.io/ggplotnim",
                 "id": 188495430,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2026-02-24T14:19:44Z",
+                "open_issues": 27,
                 "owner": "Vindaar",
                 "repo": "ggplotnim",
-                "stars": 188
+                "stars": 188,
+                "topics": [
+                  "data-visualization",
+                  "ggplot2",
+                  "hacktoberfest",
+                  "nim-lang",
+                  "plot",
+                  "plotting"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1968,12 +3484,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "plotly wrapper for nim-lang",
+                "homepage": "https://scinim.github.io/nim-plotly/",
                 "id": 132914373,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2024-04-09T17:26:47Z",
+                "open_issues": 23,
                 "owner": "SciNim",
                 "repo": "nim-plotly",
-                "stars": 185
+                "stars": 185,
+                "topics": [
+                  "chart",
+                  "nim",
+                  "nim-lang",
+                  "plot",
+                  "plotting"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -1984,12 +3511,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "plotly wrapper for nim-lang",
+                "homepage": "https://scinim.github.io/nim-plotly/",
                 "id": 132914373,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2024-04-09T17:26:47Z",
+                "open_issues": 23,
                 "owner": "SciNim",
                 "repo": "nim-plotly",
-                "stars": 185
+                "stars": 185,
+                "topics": [
+                  "chart",
+                  "nim",
+                  "nim-lang",
+                  "plot",
+                  "plotting"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2000,12 +3538,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A basic plotting lib in nim",
+                "homepage": "https://stisa.space/graph/theindex.html",
                 "id": 68330614,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2020-08-28T10:44:40Z",
+                "open_issues": 0,
                 "owner": "stisa",
                 "repo": "graph",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "graph",
+                  "nim",
+                  "plot"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2016,12 +3563,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A basic plotting lib in nim",
+                "homepage": "https://stisa.space/graph/theindex.html",
                 "id": 68330614,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2020-08-28T10:44:40Z",
+                "open_issues": 0,
                 "owner": "stisa",
                 "repo": "graph",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "graph",
+                  "nim",
+                  "plot"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2032,12 +3588,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plotting in Nim",
+                "homepage": null,
                 "id": 212246326,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2019-06-16T05:30:43Z",
+                "open_issues": 0,
                 "owner": "refaqtor",
                 "repo": "nimetry",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2048,12 +3609,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plotting in Nim",
+                "homepage": null,
                 "id": 212246326,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2019-06-16T05:30:43Z",
+                "open_issues": 0,
                 "owner": "refaqtor",
                 "repo": "nimetry",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2064,12 +3630,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A nim library for making graphs with GraphViz and DOT (based on PyGraphviz)",
+                "homepage": null,
                 "id": 399031600,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2026-04-25T13:18:41Z",
+                "open_issues": 0,
                 "owner": "Aveheuzed",
                 "repo": "nimgraphviz",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -2087,12 +3658,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTML user interface for Perl 5 desktop applications :dromedary_camel:",
+                "homepage": null,
                 "id": 14790609,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-09T13:35:39Z",
+                "open_issues": 0,
                 "owner": "ddmitov",
                 "repo": "perl-executing-browser",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "desktop-application-sdk",
+                  "gui",
+                  "html",
+                  "perl5",
+                  "qt5",
+                  "qtwebengine"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2103,12 +3686,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTML user interface for Perl 5 desktop applications :dromedary_camel:",
+                "homepage": null,
                 "id": 14790609,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-09T13:35:39Z",
+                "open_issues": 0,
                 "owner": "ddmitov",
                 "repo": "perl-executing-browser",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "desktop-application-sdk",
+                  "gui",
+                  "html",
+                  "perl5",
+                  "qt5",
+                  "qtwebengine"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -2126,12 +3721,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Laravel wrapper for the NativePHP framework",
+                "homepage": "https://nativephp.com",
                 "id": 625678322,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-05-27T22:12:31Z",
+                "open_issues": 0,
                 "owner": "NativePHP",
                 "repo": "laravel",
-                "stars": 3887
+                "stars": 3886,
+                "topics": [
+                  "laravel",
+                  "nativephp",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2142,12 +3746,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build native desktop applications with PHP only",
+                "homepage": null,
                 "id": 398833822,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-08-09T11:38:16Z",
+                "open_issues": 14,
                 "owner": "skoro",
                 "repo": "php-tkui",
-                "stars": 507
+                "stars": 507,
+                "topics": [
+                  "desktop",
+                  "ffi",
+                  "gui",
+                  "php",
+                  "php-ffi",
+                  "php-library",
+                  "php74",
+                  "php8",
+                  "tcl",
+                  "tcltk"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2158,12 +3778,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ Boson Kernel",
+                "homepage": "https://bosonphp.com",
                 "id": 798442695,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-13T14:27:29Z",
+                "open_issues": 13,
                 "owner": "boson-php",
                 "repo": "boson",
-                "stars": 671
+                "stars": 672,
+                "topics": [
+                  "bridge",
+                  "browser",
+                  "html",
+                  "interface",
+                  "native",
+                  "php",
+                  "php84",
+                  "render",
+                  "webview"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2174,12 +3809,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ Boson Kernel",
+                "homepage": "https://bosonphp.com",
                 "id": 798442695,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-13T14:27:29Z",
+                "open_issues": 13,
                 "owner": "boson-php",
                 "repo": "boson",
-                "stars": 671
+                "stars": 672,
+                "topics": [
+                  "bridge",
+                  "browser",
+                  "html",
+                  "interface",
+                  "native",
+                  "php",
+                  "php84",
+                  "render",
+                  "webview"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -2197,12 +3847,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create Python GUIs with Qt in minutes",
+                "homepage": "https://build-system.fman.io",
                 "id": 114350452,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-01-06T10:55:46Z",
+                "open_issues": 66,
                 "owner": "mherrmann",
                 "repo": "fbs",
-                "stars": 3922
+                "stars": 3922,
+                "topics": [
+                  "pyinstaller",
+                  "pyqt5",
+                  "pyqt6",
+                  "pyside2",
+                  "pyside6",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2213,12 +3875,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
+                "homepage": "https://kivy.org",
                 "id": 1049095,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T02:51:24Z",
+                "open_issues": 850,
                 "owner": "kivy",
                 "repo": "kivy",
-                "stars": 19011
+                "stars": 19011,
+                "topics": [
+                  "android",
+                  "app",
+                  "ios",
+                  "kivy",
+                  "linux",
+                  "macos",
+                  "python",
+                  "ui",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2229,12 +3906,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cross-platform GUI library for Python with a pythonic API.",
+                "homepage": null,
                 "id": 133772544,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-05-17T07:29:18Z",
+                "open_issues": 3,
                 "owner": "gcewing",
                 "repo": "PyGUI",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2245,12 +3927,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T17:32:10Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2261,12 +3957,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A little Python library for making simple Electron-like HTML/JS GUI apps",
+                "homepage": null,
                 "id": 115559503,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-22T18:29:43Z",
+                "open_issues": 216,
                 "owner": "python-eel",
                 "repo": "Eel",
-                "stars": 6736
+                "stars": 6736,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2277,12 +3980,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A little Python library for making simple Electron-like HTML/JS GUI apps",
+                "homepage": null,
                 "id": 115559503,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-22T18:29:43Z",
+                "open_issues": 216,
                 "owner": "python-eel",
                 "repo": "Eel",
-                "stars": 6736
+                "stars": 6736,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2293,12 +4003,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build GUI for your Python program with JavaScript, HTML, and CSS",
+                "homepage": "https://pywebview.flowrl.com",
                 "id": 26908699,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T17:25:26Z",
+                "open_issues": 13,
                 "owner": "r0x0r",
                 "repo": "pywebview",
-                "stars": 5995
+                "stars": 5997,
+                "topics": [
+                  "cef",
+                  "cocoa",
+                  "gtk",
+                  "gui",
+                  "html",
+                  "javascript",
+                  "linux",
+                  "osx",
+                  "python",
+                  "qt",
+                  "webkit",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2309,12 +4037,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build GUI for your Python program with JavaScript, HTML, and CSS",
+                "homepage": "https://pywebview.flowrl.com",
                 "id": 26908699,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T17:25:26Z",
+                "open_issues": 13,
                 "owner": "r0x0r",
                 "repo": "pywebview",
-                "stars": 5995
+                "stars": 5997,
+                "topics": [
+                  "cef",
+                  "cocoa",
+                  "gtk",
+                  "gui",
+                  "html",
+                  "javascript",
+                  "linux",
+                  "osx",
+                  "python",
+                  "qt",
+                  "webkit",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2325,12 +4071,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python GUIs for Humans! Create any GUI simple or complicated in a way that's intuitive.  Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into a simple, intuitive, and fun experience for both hobbyists and expert users. ",
+                "homepage": "https://www.PySimpleGUI.com",
                 "id": 140614233,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-28T12:01:17Z",
+                "open_issues": 706,
                 "owner": "PySimpleGUI",
                 "repo": "PySimpleGUI",
-                "stars": 13810
+                "stars": 13810,
+                "topics": [
+                  "beginner-friendly",
+                  "datavisualization",
+                  "games",
+                  "gui",
+                  "gui-framework",
+                  "gui-programming",
+                  "gui-window",
+                  "pyside2",
+                  "pysimplegui",
+                  "python",
+                  "python-gui",
+                  "qt",
+                  "qt-gui",
+                  "remi",
+                  "systemtray",
+                  "tkinter",
+                  "tkinter-gui",
+                  "tkinter-python",
+                  "user-interface",
+                  "wxpython"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2341,12 +4113,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create web-based user interfaces with Python. The nice way.",
+                "homepage": "https://nicegui.io",
                 "id": 365250183,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T19:01:24Z",
+                "open_issues": 70,
                 "owner": "zauberzeug",
                 "repo": "nicegui",
-                "stars": 16168
+                "stars": 16168,
+                "topics": [
+                  "frontend",
+                  "gui",
+                  "interaction",
+                  "interface",
+                  "interfaces",
+                  "python",
+                  "robotics",
+                  "scripting",
+                  "toolkit",
+                  "webapp",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2357,12 +4146,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python native, OS native GUI toolkit.",
+                "homepage": "https://toga.beeware.org/",
                 "id": 22529973,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-23T22:06:16Z",
+                "open_issues": 308,
                 "owner": "beeware",
                 "repo": "toga",
-                "stars": 5406
+                "stars": 5406,
+                "topics": [
+                  "gui",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2373,12 +4170,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pyloid: Electron for Python Developer • Modern Web-based desktop app framework",
+                "homepage": "https://pyloid.com/",
                 "id": 867512664,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-08T08:37:16Z",
+                "open_issues": 7,
                 "owner": "pyloid",
                 "repo": "pyloid",
-                "stars": 518
+                "stars": 518,
+                "topics": [
+                  "ai",
+                  "app",
+                  "desktop",
+                  "electron",
+                  "python",
+                  "tauri"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2389,12 +4198,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pyloid: Electron for Python Developer • Modern Web-based desktop app framework",
+                "homepage": "https://pyloid.com/",
                 "id": 867512664,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-08T08:37:16Z",
+                "open_issues": 7,
                 "owner": "pyloid",
                 "repo": "pyloid",
-                "stars": 518
+                "stars": 518,
+                "topics": [
+                  "ai",
+                  "app",
+                  "desktop",
+                  "electron",
+                  "python",
+                  "tauri"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -2412,12 +4233,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy interactive web applications with R",
+                "homepage": "https://shiny.posit.co/",
                 "id": 4729944,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T17:26:31Z",
+                "open_issues": 866,
                 "owner": "rstudio",
                 "repo": "shiny",
-                "stars": 5682
+                "stars": 5682,
+                "topics": [
+                  "r",
+                  "reactive",
+                  "rstudio",
+                  "shiny",
+                  "web-app",
+                  "web-development"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -2435,12 +4268,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":zap: Native, high-performance, cross-platform desktop apps - built with Reason!",
+                "homepage": "https://www.outrunlabs.com/revery/",
                 "id": 149477929,
                 "language": "Reason",
+                "license": "MIT",
                 "last_commit": "2022-02-13T22:31:10Z",
+                "open_issues": 112,
                 "owner": "revery-ui",
                 "repo": "revery",
-                "stars": 8043
+                "stars": 8043,
+                "topics": [
+                  "app",
+                  "cross-platform",
+                  "desktop",
+                  "desktop-apps",
+                  "electron",
+                  "native",
+                  "ocaml",
+                  "react",
+                  "reason",
+                  "reasonml",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -2458,12 +4308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Red-related user documentation repository",
+                "homepage": null,
                 "id": 29379153,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2026-07-12T22:40:06Z",
+                "open_issues": 45,
                 "owner": "red",
                 "repo": "docs",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2474,12 +4329,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single ~1MB file! ",
+                "homepage": "http://red-lang.org",
                 "id": 1449773,
                 "language": "Red",
+                "license": "BSL-1.0",
                 "last_commit": "2026-08-18T21:17:40Z",
+                "open_issues": 537,
                 "owner": "red",
                 "repo": "red",
-                "stars": 6033
+                "stars": 6033,
+                "topics": [
+                  "compiler",
+                  "cross-platform",
+                  "gui",
+                  "interpreter",
+                  "language",
+                  "native",
+                  "programming-language",
+                  "reactive-programming",
+                  "rebol",
+                  "red",
+                  "repl",
+                  "scripting-language",
+                  "toolchain"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2490,12 +4364,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Red-related user documentation repository",
+                "homepage": null,
                 "id": 29379153,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2026-07-12T22:40:06Z",
+                "open_issues": 45,
                 "owner": "red",
                 "repo": "docs",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2506,12 +4385,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single ~1MB file! ",
+                "homepage": "http://red-lang.org",
                 "id": 1449773,
                 "language": "Red",
+                "license": "BSL-1.0",
                 "last_commit": "2026-08-18T21:17:40Z",
+                "open_issues": 537,
                 "owner": "red",
                 "repo": "red",
-                "stars": 6033
+                "stars": 6033,
+                "topics": [
+                  "compiler",
+                  "cross-platform",
+                  "gui",
+                  "interpreter",
+                  "language",
+                  "native",
+                  "programming-language",
+                  "reactive-programming",
+                  "rebol",
+                  "red",
+                  "repl",
+                  "scripting-language",
+                  "toolchain"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2522,12 +4420,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Red-related user documentation repository",
+                "homepage": null,
                 "id": 29379153,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2026-07-12T22:40:06Z",
+                "open_issues": 45,
                 "owner": "red",
                 "repo": "docs",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2538,12 +4441,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single ~1MB file! ",
+                "homepage": "http://red-lang.org",
                 "id": 1449773,
                 "language": "Red",
+                "license": "BSL-1.0",
                 "last_commit": "2026-08-18T21:17:40Z",
+                "open_issues": 537,
                 "owner": "red",
                 "repo": "red",
-                "stars": 6033
+                "stars": 6033,
+                "topics": [
+                  "compiler",
+                  "cross-platform",
+                  "gui",
+                  "interpreter",
+                  "language",
+                  "native",
+                  "programming-language",
+                  "reactive-programming",
+                  "rebol",
+                  "red",
+                  "repl",
+                  "scripting-language",
+                  "toolchain"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -2561,12 +4483,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DSL Framework consisting of a DSL Engine and a Data-Binding Library used in Glimmer DSL for SWT (JRuby Desktop Development GUI Framework), Glimmer DSL for Opal (Pure Ruby Web GUI), Glimmer DSL for LibUI (Prerequisite-Free Ruby Desktop Development GUI Library), Glimmer DSL for Tk (Ruby Tk Desktop Development GUI Library), Glimmer DSL for GTK (Ruby-GNOME Desktop Development GUI Library), Glimmer DSL for XML (& HTML), and Glimmer DSL for CSS",
+                "homepage": null,
                 "id": 85116,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-04-07T19:21:41Z",
+                "open_issues": 2,
                 "owner": "AndyObtiva",
                 "repo": "glimmer",
-                "stars": 839
+                "stars": 839,
+                "topics": [
+                  "desktop",
+                  "desktop-application-sdk",
+                  "dsl",
+                  "dsl-engine",
+                  "framework",
+                  "glimmer",
+                  "gui",
+                  "gui-framework",
+                  "gui-toolkit",
+                  "jruby",
+                  "linux",
+                  "mac",
+                  "macos",
+                  "ruby",
+                  "swt",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2577,12 +4521,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DSL Framework consisting of a DSL Engine and a Data-Binding Library used in Glimmer DSL for SWT (JRuby Desktop Development GUI Framework), Glimmer DSL for Opal (Pure Ruby Web GUI), Glimmer DSL for LibUI (Prerequisite-Free Ruby Desktop Development GUI Library), Glimmer DSL for Tk (Ruby Tk Desktop Development GUI Library), Glimmer DSL for GTK (Ruby-GNOME Desktop Development GUI Library), Glimmer DSL for XML (& HTML), and Glimmer DSL for CSS",
+                "homepage": null,
                 "id": 85116,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-04-07T19:21:41Z",
+                "open_issues": 2,
                 "owner": "AndyObtiva",
                 "repo": "glimmer",
-                "stars": 839
+                "stars": 839,
+                "topics": [
+                  "desktop",
+                  "desktop-application-sdk",
+                  "dsl",
+                  "dsl-engine",
+                  "framework",
+                  "glimmer",
+                  "gui",
+                  "gui-framework",
+                  "gui-toolkit",
+                  "jruby",
+                  "linux",
+                  "mac",
+                  "macos",
+                  "ruby",
+                  "swt",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2593,12 +4559,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy to install gem version of the Ruby bindings to Qt",
+                "homepage": "http://github.com/ryanmelt/qtbindings",
                 "id": 808295,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2021-02-15T05:22:55Z",
+                "open_issues": 11,
                 "owner": "ryanmelt",
                 "repo": "qtbindings",
-                "stars": 336
+                "stars": 336,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2609,12 +4580,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tk interface module using tcltklib",
+                "homepage": null,
                 "id": 55744612,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-24T01:57:38Z",
+                "open_issues": 3,
                 "owner": "ruby",
                 "repo": "tk",
-                "stars": 137
+                "stars": 137,
+                "topics": [
+                  "ruby",
+                  "tk"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2625,12 +4604,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tk interface module using tcltklib",
+                "homepage": null,
                 "id": 55744612,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-24T01:57:38Z",
+                "open_issues": 3,
                 "owner": "ruby",
                 "repo": "tk",
-                "stars": 137
+                "stars": 137,
+                "topics": [
+                  "ruby",
+                  "tk"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2641,12 +4628,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of bindings for the GNOME libraries to use from Ruby.",
+                "homepage": "https://ruby-gnome.github.io/",
                 "id": 2051452,
                 "language": "Ruby",
+                "license": "GFDL-1.3",
                 "last_commit": "2026-08-17T01:19:25Z",
+                "open_issues": 31,
                 "owner": "ruby-gnome",
                 "repo": "ruby-gnome",
-                "stars": 405
+                "stars": 405,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2657,12 +4649,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of bindings for the GNOME libraries to use from Ruby.",
+                "homepage": "https://ruby-gnome.github.io/",
                 "id": 2051452,
                 "language": "Ruby",
+                "license": "GFDL-1.3",
                 "last_commit": "2026-08-17T01:19:25Z",
+                "open_issues": 31,
                 "owner": "ruby-gnome",
                 "repo": "ruby-gnome",
-                "stars": 405
+                "stars": 405,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2673,12 +4670,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaFX JRuby binding",
+                "homepage": null,
                 "id": 2755202,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-16T00:27:15Z",
+                "open_issues": 34,
                 "owner": "jruby",
                 "repo": "jrubyfx",
-                "stars": 156
+                "stars": 156,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2689,12 +4691,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaFX JRuby binding",
+                "homepage": null,
                 "id": 2755202,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-16T00:27:15Z",
+                "open_issues": 34,
                 "owner": "jruby",
                 "repo": "jrubyfx",
-                "stars": 156
+                "stars": 156,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2705,12 +4712,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-contained Ruby binaries that can run on any Linux distribution and any macOS machine.",
+                "homepage": "http://FooBarWidget.github.io/traveling-ruby",
                 "id": 27350433,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-03T15:26:34Z",
+                "open_issues": 29,
                 "owner": "phusion",
                 "repo": "traveling-ruby",
-                "stars": 2137
+                "stars": 2137,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2721,12 +4733,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-contained Ruby binaries that can run on any Linux distribution and any macOS machine.",
+                "homepage": "http://FooBarWidget.github.io/traveling-ruby",
                 "id": 27350433,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-03T15:26:34Z",
+                "open_issues": 29,
                 "owner": "phusion",
                 "repo": "traveling-ruby",
-                "stars": 2137
+                "stars": 2137,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -2744,12 +4761,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust bindings of GTK 4",
+                "homepage": "https://gtk-rs.org/gtk4-rs/",
                 "id": 186402701,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-24T07:15:23Z",
+                "open_issues": 80,
                 "owner": "gtk-rs",
                 "repo": "gtk4-rs",
-                "stars": 2335
+                "stars": 2335,
+                "topics": [
+                  "gdk4",
+                  "gdk4-wayland",
+                  "gdk4-x11",
+                  "gsk4",
+                  "gtk-rs",
+                  "gtk4",
+                  "gtk4-macros",
+                  "gtk4-rs"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2760,12 +4791,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+                "homepage": "https://tauri.app",
                 "id": 196701619,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T16:18:58Z",
+                "open_issues": 1454,
                 "owner": "tauri-apps",
                 "repo": "tauri",
-                "stars": 110623
+                "stars": 110631,
+                "topics": [
+                  "desktop-app",
+                  "high-performance",
+                  "mobile-app",
+                  "native-app",
+                  "rust",
+                  "web-frontend",
+                  "webview"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2776,12 +4820,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+                "homepage": "https://tauri.app",
                 "id": 196701619,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T16:18:58Z",
+                "open_issues": 1454,
                 "owner": "tauri-apps",
                 "repo": "tauri",
-                "stars": 110623
+                "stars": 110631,
+                "topics": [
+                  "desktop-app",
+                  "high-performance",
+                  "mobile-app",
+                  "native-app",
+                  "rust",
+                  "web-frontend",
+                  "webview"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2792,12 +4849,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+                "homepage": "https://zed.dev",
                 "id": 340547520,
                 "language": "Rust",
-                "last_commit": "2026-08-28T17:38:39Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:16:51Z",
+                "open_issues": 3167,
                 "owner": "zed-industries",
                 "repo": "zed",
-                "stars": 89371
+                "stars": 89382,
+                "topics": [
+                  "gpui",
+                  "rust-lang",
+                  "text-editor",
+                  "zed"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -2815,12 +4882,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My UI Widget library for V",
+                "homepage": "https://discord.gg/NruVtYBf5g",
                 "id": 436660468,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-07-30T03:32:53Z",
+                "open_issues": 9,
                 "owner": "pisaiah",
                 "repo": "ui",
-                "stars": 158
+                "stars": 158,
+                "topics": [
+                  "cross-platform-gui",
+                  "fluentui",
+                  "gui",
+                  "linux",
+                  "mac",
+                  "ui",
+                  "ui-library",
+                  "v",
+                  "vlang",
+                  "vlang-library",
+                  "wasm",
+                  "widget",
+                  "widget-toolkit",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2831,12 +4918,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My UI Widget library for V",
+                "homepage": "https://discord.gg/NruVtYBf5g",
                 "id": 436660468,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-07-30T03:32:53Z",
+                "open_issues": 9,
                 "owner": "pisaiah",
                 "repo": "ui",
-                "stars": 158
+                "stars": 158,
+                "topics": [
+                  "cross-platform-gui",
+                  "fluentui",
+                  "gui",
+                  "linux",
+                  "mac",
+                  "ui",
+                  "ui-library",
+                  "v",
+                  "vlang",
+                  "vlang-library",
+                  "wasm",
+                  "widget",
+                  "widget-toolkit",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2847,12 +4954,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Cross-Platform UI Library",
+                "homepage": "https://malisipi.github.io/mui/",
                 "id": 508776265,
                 "language": "V",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-18T10:19:20Z",
+                "open_issues": 10,
                 "owner": "malisipi",
                 "repo": "mui",
-                "stars": 111
+                "stars": 111,
+                "topics": [
+                  "c",
+                  "cpp",
+                  "gtk3",
+                  "gtk4",
+                  "gui",
+                  "linux",
+                  "macos",
+                  "qt",
+                  "theme",
+                  "ui",
+                  "ui-library",
+                  "v",
+                  "vlang",
+                  "vlang-library",
+                  "vlang-module",
+                  "wasm",
+                  "web",
+                  "widget-toolkit",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2863,12 +4995,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Cross-Platform UI Library",
+                "homepage": "https://malisipi.github.io/mui/",
                 "id": 508776265,
                 "language": "V",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-18T10:19:20Z",
+                "open_issues": 10,
                 "owner": "malisipi",
                 "repo": "mui",
-                "stars": 111
+                "stars": 111,
+                "topics": [
+                  "c",
+                  "cpp",
+                  "gtk3",
+                  "gtk4",
+                  "gui",
+                  "linux",
+                  "macos",
+                  "qt",
+                  "theme",
+                  "ui",
+                  "ui-library",
+                  "v",
+                  "vlang",
+                  "vlang-library",
+                  "vlang-module",
+                  "wasm",
+                  "web",
+                  "widget-toolkit",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2879,12 +5036,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A V wrapper for the cross-platform UI library, IUP.",
+                "homepage": null,
                 "id": 303896012,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-01-05T12:53:08Z",
+                "open_issues": 2,
                 "owner": "kjlaw89",
                 "repo": "viup",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "cross-platform",
+                  "iup",
+                  "ui",
+                  "vlang",
+                  "vlang-module",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2895,12 +5064,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A V wrapper for the cross-platform UI library, IUP.",
+                "homepage": null,
                 "id": 303896012,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-01-05T12:53:08Z",
+                "open_issues": 2,
                 "owner": "kjlaw89",
                 "repo": "viup",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "cross-platform",
+                  "iup",
+                  "ui",
+                  "vlang",
+                  "vlang-module",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2911,12 +5092,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vi-v is a visual scripting UI for vlang. It allows anyone to create their own programs easily without an extensive programming skill.",
+                "homepage": "https://vi-v.fr",
                 "id": 262271999,
                 "language": "V",
+                "license": "MIT",
                 "last_commit": "2021-01-08T15:04:22Z",
+                "open_issues": 3,
                 "owner": "nocturlab",
                 "repo": "vi-v",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "low-programmation-skills",
+                  "ui",
+                  "visual-scripting",
+                  "vlang"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2927,12 +5118,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vi-v is a visual scripting UI for vlang. It allows anyone to create their own programs easily without an extensive programming skill.",
+                "homepage": "https://vi-v.fr",
                 "id": 262271999,
                 "language": "V",
+                "license": "MIT",
                 "last_commit": "2021-01-08T15:04:22Z",
+                "open_issues": 3,
                 "owner": "nocturlab",
                 "repo": "vi-v",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "low-programmation-skills",
+                  "ui",
+                  "visual-scripting",
+                  "vlang"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2943,12 +5144,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "vxui is a cross-platform desktop UI framework which use your browser as screen, and use V lang as backend. It reply on Websocket, no http/https, no web server!",
+                "homepage": null,
                 "id": 641959374,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T05:00:46Z",
+                "open_issues": 1,
                 "owner": "kbkpbot",
                 "repo": "vxui",
-                "stars": 16
+                "stars": 18,
+                "topics": [
+                  "cross-platform",
+                  "desktop",
+                  "htmx",
+                  "ui",
+                  "vlang",
+                  "websocket",
+                  "webui"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -2959,12 +5173,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "vxui is a cross-platform desktop UI framework which use your browser as screen, and use V lang as backend. It reply on Websocket, no http/https, no web server!",
+                "homepage": null,
                 "id": 641959374,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T05:00:46Z",
+                "open_issues": 1,
                 "owner": "kbkpbot",
                 "repo": "vxui",
-                "stars": 16
+                "stars": 18,
+                "topics": [
+                  "cross-platform",
+                  "desktop",
+                  "htmx",
+                  "ui",
+                  "vlang",
+                  "websocket",
+                  "webui"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -2982,12 +5209,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Cross-Platform UI Library",
+                "homepage": "https://malisipi.github.io/mui/",
                 "id": 508776265,
                 "language": "V",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-18T10:19:20Z",
+                "open_issues": 10,
                 "owner": "malisipi",
                 "repo": "mui",
-                "stars": 111
+                "stars": 111,
+                "topics": [
+                  "c",
+                  "cpp",
+                  "gtk3",
+                  "gtk4",
+                  "gui",
+                  "linux",
+                  "macos",
+                  "qt",
+                  "theme",
+                  "ui",
+                  "ui-library",
+                  "v",
+                  "vlang",
+                  "vlang-library",
+                  "vlang-module",
+                  "wasm",
+                  "web",
+                  "widget-toolkit",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -3005,12 +5257,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toolkit for building native desktop apps",
+                "homepage": "https://native-sdk.dev",
                 "id": 1233290067,
                 "language": "Zig",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T22:31:08Z",
+                "open_issues": 150,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7590
+                "stars": 7592,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             },
@@ -3021,12 +5278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toolkit for building native desktop apps",
+                "homepage": "https://native-sdk.dev",
                 "id": 1233290067,
                 "language": "Zig",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T22:31:08Z",
+                "open_issues": 150,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7590
+                "stars": 7592,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
             }
@@ -3048,12 +5310,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for creating native cross-platform GUI apps",
+            "homepage": "https://libyue.com",
             "id": 65122227,
             "language": "C++",
+            "license": "LGPL-2.1",
             "last_commit": "2025-01-24T11:00:07Z",
+            "open_issues": 13,
             "owner": "yue",
             "repo": "yue",
-            "stars": 3614
+            "stars": 3614,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:35.253Z"
         },
@@ -3064,12 +5331,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An objective comparison of multiple frameworks that allow us to \"transform\" our web apps to desktop applications.",
+            "homepage": null,
             "id": 346133145,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T06:51:19Z",
+            "open_issues": 36,
             "owner": "Elanis",
             "repo": "web-to-desktop-framework-comparison",
-            "stars": 1989
+            "stars": 1989,
+            "topics": [
+              "benchmark",
+              "characteristics",
+              "desktop-framework-comparison",
+              "electron",
+              "electron-app",
+              "electronjs",
+              "flutter",
+              "maui",
+              "neutralinojs",
+              "nodegui",
+              "nwjs",
+              "nwjs-application",
+              "tauri",
+              "tauri-app",
+              "wails"
+            ]
           },
           "first_seen": "2026-08-28T17:43:35.253Z"
         },
@@ -3080,12 +5368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome resources about Electron.js (in)security",
+            "homepage": null,
             "id": 268486207,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-14T13:37:44Z",
+            "open_issues": 0,
             "owner": "doyensec",
             "repo": "awesome-electronjs-hacking",
-            "stars": 680
+            "stars": 680,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:35.253Z"
         },
@@ -3096,12 +5389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Applications with browser technologies using the native engine in your OS.",
+            "homepage": null,
             "id": 125679764,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2020-01-07T02:00:12Z",
+            "open_issues": 6,
             "owner": "jscherer92",
             "repo": "Quark",
-            "stars": 272
+            "stars": 272,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:35.253Z"
         },
@@ -3112,12 +5410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of electron apps so I can avoid them, and some alternatives to use instead",
+            "homepage": null,
             "id": 621136932,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2025-02-15T02:57:57Z",
+            "open_issues": 0,
             "owner": "kendofriendo",
             "repo": "positron",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:35.253Z"
         },
@@ -3128,12 +5431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 274919536,
             "language": null,
+            "license": null,
             "last_commit": "2020-07-20T12:32:48Z",
+            "open_issues": 0,
             "owner": "konchunas",
             "repo": "awesome-alternatives-to-electron-apps",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:35.253Z"
         }
@@ -3142,15 +5450,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:43:35.253Z",
+    "last_updated": "2026-08-29T04:27:46.120Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Electron alternatives.",
+      "homepage": null,
       "id": 204777333,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-07-15T04:50:14Z",
+      "open_issues": 7,
       "owner": "sudhakar3697",
       "repo": "awesome-electron-alternatives",
-      "stars": 2196
+      "stars": 2196,
+      "topics": [
+        "awesome-list",
+        "cross-platform-desktop-app-dev",
+        "electron",
+        "electron-alternatives",
+        "pwa"
+      ]
     },
     "original_repository_sha": "f34b062aaefe63e546a4bcd3931edc14ed6cbb49",
     "enhanced_repository": "enhansome/enhansome-electron-alternatives",
