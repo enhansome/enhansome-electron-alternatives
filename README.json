@@ -18,10 +18,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-01T14:18:30Z",
-                "open_issues": 1943,
+                "open_issues": 1945,
                 "owner": "AvaloniaUI",
                 "repo": "Avalonia",
-                "stars": 31616,
+                "stars": 31617,
                 "topics": [
                   "android",
                   "app-framework",
@@ -59,8 +59,8 @@
                 "id": 132453438,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T10:28:32Z",
-                "open_issues": 1824,
+                "last_commit": "2026-10-03T00:42:15Z",
+                "open_issues": 1823,
                 "owner": "unoplatform",
                 "repo": "uno",
                 "stars": 10064,
@@ -92,7 +92,7 @@
             {
               "node_type": "item",
               "title": "Chromely",
-              "description": null,
+              "description": "chromelyapps/Chromely",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -105,7 +105,7 @@
                 "open_issues": 6,
                 "owner": "chromelyapps",
                 "repo": "Chromely",
-                "stars": 2971,
+                "stars": 2970,
                 "topics": [
                   "angular",
                   "asp-net-core",
@@ -134,7 +134,7 @@
             {
               "node_type": "item",
               "title": "Chromely",
-              "description": "**",
+              "description": "chromelyapps/Chromely",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -147,7 +147,7 @@
                 "open_issues": 6,
                 "owner": "chromelyapps",
                 "repo": "Chromely",
-                "stars": 2971,
+                "stars": 2970,
                 "topics": [
                   "angular",
                   "asp-net-core",
@@ -176,7 +176,7 @@
             {
               "node_type": "item",
               "title": "SpiderEye",
-              "description": null,
+              "description": "ABildstein/SpiderEye",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -202,7 +202,7 @@
             {
               "node_type": "item",
               "title": "SpiderEye",
-              "description": "**",
+              "description": "ABildstein/SpiderEye",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -228,7 +228,7 @@
             {
               "node_type": "item",
               "title": "Photino.NET",
-              "description": null,
+              "description": "tryphotino/photino.NET",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -249,7 +249,7 @@
             {
               "node_type": "item",
               "title": "photino.NET",
-              "description": null,
+              "description": "tryphotino/photino.NET",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -270,7 +270,7 @@
             {
               "node_type": "item",
               "title": "PhotinoX",
-              "description": null,
+              "description": "ivanvoyager/PhotinoX",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -280,7 +280,7 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T23:25:21Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "ivanvoyager",
                 "repo": "PhotinoX",
                 "stars": 42,
@@ -303,7 +303,7 @@
             {
               "node_type": "item",
               "title": "PhotinoX",
-              "description": null,
+              "description": "ivanvoyager/PhotinoX",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -313,7 +313,7 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T23:25:21Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "ivanvoyager",
                 "repo": "PhotinoX",
                 "stars": 42,
@@ -336,7 +336,7 @@
             {
               "node_type": "item",
               "title": "foton",
-              "description": null,
+              "description": "integrativesoft/foton",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -357,7 +357,7 @@
             {
               "node_type": "item",
               "title": "foton",
-              "description": "**",
+              "description": "integrativesoft/foton",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -378,7 +378,7 @@
             {
               "node_type": "item",
               "title": "InfiniFrame",
-              "description": null,
+              "description": "InfiniLore/InfiniFrame",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -399,7 +399,7 @@
             {
               "node_type": "item",
               "title": "InfiniFrame",
-              "description": null,
+              "description": "InfiniLore/InfiniFrame",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -427,7 +427,7 @@
             {
               "node_type": "item",
               "title": "Webview",
-              "description": null,
+              "description": "webview/webview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -440,7 +440,7 @@
                 "open_issues": 216,
                 "owner": "webview",
                 "repo": "webview",
-                "stars": 14262,
+                "stars": 14263,
                 "topics": [
                   "c",
                   "cpp",
@@ -464,7 +464,7 @@
             {
               "node_type": "item",
               "title": "webview",
-              "description": null,
+              "description": "webview/webview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -477,7 +477,7 @@
                 "open_issues": 216,
                 "owner": "webview",
                 "repo": "webview",
-                "stars": 14262,
+                "stars": 14263,
                 "topics": [
                   "c",
                   "cpp",
@@ -501,7 +501,7 @@
             {
               "node_type": "item",
               "title": "Saucer",
-              "description": null,
+              "description": "saucer/saucer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -543,7 +543,7 @@
             {
               "node_type": "item",
               "title": "saucer",
-              "description": null,
+              "description": "saucer/saucer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -585,7 +585,7 @@
             {
               "node_type": "item",
               "title": "tiny",
-              "description": null,
+              "description": "Rafi993/tiny",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -609,7 +609,7 @@
             {
               "node_type": "item",
               "title": "tiny",
-              "description": "*",
+              "description": "Rafi993/tiny",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -633,7 +633,7 @@
             {
               "node_type": "item",
               "title": "UnityHub",
-              "description": null,
+              "description": "Ravbug/UnityHubNative",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -667,7 +667,7 @@
             {
               "node_type": "item",
               "title": "UnityHubNative",
-              "description": null,
+              "description": "Ravbug/UnityHubNative",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -701,7 +701,7 @@
             {
               "node_type": "item",
               "title": "RenWeb",
-              "description": null,
+              "description": "spur27/RenWeb-Engine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -734,7 +734,7 @@
             {
               "node_type": "item",
               "title": "RenWeb-Engine",
-              "description": null,
+              "description": "spur27/RenWeb-Engine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -774,7 +774,7 @@
             {
               "node_type": "item",
               "title": "Crystal Webview",
-              "description": null,
+              "description": "naqvis/webview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -816,7 +816,7 @@
                 "open_issues": 216,
                 "owner": "webview",
                 "repo": "webview",
-                "stars": 14262,
+                "stars": 14263,
                 "topics": [
                   "c",
                   "cpp",
@@ -840,7 +840,7 @@
             {
               "node_type": "item",
               "title": "webview",
-              "description": null,
+              "description": "naqvis/webview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -885,11 +885,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T04:16:00Z",
-                "open_issues": 13265,
+                "last_commit": "2026-10-03T04:29:45Z",
+                "open_issues": 13266,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 179226,
+                "stars": 179266,
                 "topics": [
                   "android",
                   "app-framework",
@@ -959,7 +959,7 @@
             {
               "node_type": "item",
               "title": "lorca",
-              "description": null,
+              "description": "zserge/lorca",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -972,7 +972,7 @@
                 "open_issues": 76,
                 "owner": "zserge",
                 "repo": "lorca",
-                "stars": 8204,
+                "stars": 8206,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
@@ -980,7 +980,7 @@
             {
               "node_type": "item",
               "title": "lorca",
-              "description": null,
+              "description": "zserge/lorca",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -993,7 +993,7 @@
                 "open_issues": 76,
                 "owner": "zserge",
                 "repo": "lorca",
-                "stars": 8204,
+                "stars": 8206,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
@@ -1001,7 +1001,7 @@
             {
               "node_type": "item",
               "title": "wails",
-              "description": null,
+              "description": "wailsapp/wails",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1010,11 +1010,11 @@
                 "id": 161951219,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T00:08:55Z",
-                "open_issues": 364,
+                "last_commit": "2026-10-03T00:08:27Z",
+                "open_issues": 368,
                 "owner": "wailsapp",
                 "repo": "wails",
-                "stars": 36419,
+                "stars": 36425,
                 "topics": [
                   "angular",
                   "desktop-application",
@@ -1034,7 +1034,7 @@
             {
               "node_type": "item",
               "title": "wails",
-              "description": null,
+              "description": "wailsapp/wails",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1043,11 +1043,11 @@
                 "id": 161951219,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T00:08:55Z",
-                "open_issues": 364,
+                "last_commit": "2026-10-03T00:08:27Z",
+                "open_issues": 368,
                 "owner": "wailsapp",
                 "repo": "wails",
-                "stars": 36419,
+                "stars": 36425,
                 "topics": [
                   "angular",
                   "desktop-application",
@@ -1067,7 +1067,7 @@
             {
               "node_type": "item",
               "title": "muon",
-              "description": null,
+              "description": "ImVexed/muon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1093,7 +1093,7 @@
             {
               "node_type": "item",
               "title": "muon",
-              "description": "*",
+              "description": "ImVexed/muon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1119,7 +1119,7 @@
             {
               "node_type": "item",
               "title": "Fyne",
-              "description": null,
+              "description": "fyne-io/fyne",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1132,7 +1132,7 @@
                 "open_issues": 740,
                 "owner": "fyne-io",
                 "repo": "fyne",
-                "stars": 28728,
+                "stars": 28724,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -1151,7 +1151,7 @@
             {
               "node_type": "item",
               "title": "fyne",
-              "description": null,
+              "description": "fyne-io/fyne",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1164,7 +1164,7 @@
                 "open_issues": 740,
                 "owner": "fyne-io",
                 "repo": "fyne",
-                "stars": 28728,
+                "stars": 28724,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -1190,7 +1190,7 @@
             {
               "node_type": "item",
               "title": "guile-pstk",
-              "description": null,
+              "description": "KikyTokamuro/guile-pstk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1218,7 +1218,7 @@
             {
               "node_type": "item",
               "title": "guile-pstk",
-              "description": "*",
+              "description": "KikyTokamuro/guile-pstk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1246,7 +1246,7 @@
             {
               "node_type": "item",
               "title": "guile-webview",
-              "description": null,
+              "description": "KikyTokamuro/guile-webview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1271,7 +1271,7 @@
             {
               "node_type": "item",
               "title": "guile-webview",
-              "description": null,
+              "description": "KikyTokamuro/guile-webview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1303,7 +1303,7 @@
             {
               "node_type": "item",
               "title": "Keera Hails",
-              "description": null,
+              "description": "keera-studios/keera-hails",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1339,7 +1339,7 @@
             {
               "node_type": "item",
               "title": "keera-hails",
-              "description": "*",
+              "description": "keera-studios/keera-hails",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1400,7 +1400,7 @@
             {
               "node_type": "item",
               "title": "Monomer",
-              "description": null,
+              "description": "fjvallarino/monomer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1426,7 +1426,7 @@
             {
               "node_type": "item",
               "title": "monomer",
-              "description": null,
+              "description": "fjvallarino/monomer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1472,7 +1472,7 @@
                 "open_issues": 59,
                 "owner": "openjdk",
                 "repo": "jfx",
-                "stars": 3297,
+                "stars": 3294,
                 "topics": [
                   "java",
                   "javafx",
@@ -1545,7 +1545,7 @@
             {
               "node_type": "item",
               "title": "electrino",
-              "description": null,
+              "description": "pojala/electrino",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1573,7 +1573,7 @@
             {
               "node_type": "item",
               "title": "electrino",
-              "description": "*",
+              "description": "pojala/electrino",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1635,7 +1635,7 @@
             {
               "node_type": "item",
               "title": "modern-hta",
-              "description": null,
+              "description": "joncasey/modern-hta",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1662,7 +1662,7 @@
             {
               "node_type": "item",
               "title": "modern-hta",
-              "description": null,
+              "description": "joncasey/modern-hta",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1710,7 +1710,7 @@
             {
               "node_type": "item",
               "title": "NodeGui",
-              "description": null,
+              "description": "nodegui/nodegui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1752,7 +1752,7 @@
                 "open_issues": 53,
                 "owner": "nodegui",
                 "repo": "react-nodegui",
-                "stars": 6178,
+                "stars": 6176,
                 "topics": [
                   "css",
                   "desktop",
@@ -1770,7 +1770,7 @@
             {
               "node_type": "item",
               "title": "nodegui",
-              "description": null,
+              "description": "nodegui/nodegui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1799,7 +1799,7 @@
             {
               "node_type": "item",
               "title": "Astrodon",
-              "description": null,
+              "description": "astrodon/astrodon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1827,7 +1827,7 @@
             {
               "node_type": "item",
               "title": "astrodon",
-              "description": "*",
+              "description": "astrodon/astrodon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1855,7 +1855,7 @@
             {
               "node_type": "item",
               "title": "webview_deno",
-              "description": null,
+              "description": "webview/webview_deno",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1887,7 +1887,7 @@
             {
               "node_type": "item",
               "title": "webview_deno",
-              "description": null,
+              "description": "webview/webview_deno",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1932,7 +1932,7 @@
                 "open_issues": 58,
                 "owner": "wan9chi",
                 "repo": "DeskGap",
-                "stars": 1812,
+                "stars": 1811,
                 "topics": [
                   "cpp",
                   "javascript",
@@ -1985,11 +1985,11 @@
                 "id": 138368259,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T00:44:17Z",
+                "last_commit": "2026-10-03T00:40:45Z",
                 "open_issues": 188,
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
-                "stars": 8663,
+                "stars": 8661,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -2009,7 +2009,7 @@
             {
               "node_type": "item",
               "title": "does the same to desktop that React Native did to mobile, based on libui-node",
-              "description": ".",
+              "description": "parro-it/libui-node",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2030,7 +2030,7 @@
             {
               "node_type": "item",
               "title": "proton-native",
-              "description": "*",
+              "description": "kusti8/proton-native",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2043,7 +2043,7 @@
                 "open_issues": 90,
                 "owner": "kusti8",
                 "repo": "proton-native",
-                "stars": 10873,
+                "stars": 10872,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -2057,7 +2057,7 @@
             {
               "node_type": "item",
               "title": "Graffiti",
-              "description": null,
+              "description": "cztomsik/graffiti",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2078,7 +2078,7 @@
             {
               "node_type": "item",
               "title": "graffiti",
-              "description": "*",
+              "description": "cztomsik/graffiti",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2099,7 +2099,7 @@
             {
               "node_type": "item",
               "title": "Gluon",
-              "description": null,
+              "description": "gluon-framework/gluon",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2112,7 +2112,7 @@
                 "open_issues": 21,
                 "owner": "gluon-framework",
                 "repo": "gluon",
-                "stars": 3050,
+                "stars": 3049,
                 "topics": [
                   "framework",
                   "javascript",
@@ -2125,7 +2125,7 @@
             {
               "node_type": "item",
               "title": "gluon",
-              "description": "*",
+              "description": "gluon-framework/gluon",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2138,7 +2138,7 @@
                 "open_issues": 21,
                 "owner": "gluon-framework",
                 "repo": "gluon",
-                "stars": 3050,
+                "stars": 3049,
                 "topics": [
                   "framework",
                   "javascript",
@@ -2151,7 +2151,7 @@
             {
               "node_type": "item",
               "title": "Avernakis",
-              "description": null,
+              "description": "qber-soft/Ave-Nodejs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2177,7 +2177,7 @@
             {
               "node_type": "item",
               "title": "Ave-Nodejs",
-              "description": "*",
+              "description": "qber-soft/Ave-Nodejs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2203,7 +2203,7 @@
             {
               "node_type": "item",
               "title": "WelsonJS",
-              "description": null,
+              "description": "gnh1201/welsonjs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2245,7 +2245,7 @@
             {
               "node_type": "item",
               "title": "welsonjs",
-              "description": null,
+              "description": "gnh1201/welsonjs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2287,7 +2287,7 @@
             {
               "node_type": "item",
               "title": "Vuido",
-              "description": null,
+              "description": "mimecorg/vuido",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2313,7 +2313,7 @@
             {
               "node_type": "item",
               "title": "Creating native desktop applications based on Vue.js, based on libui-node",
-              "description": null,
+              "description": "parro-it/libui-node",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2334,7 +2334,7 @@
             {
               "node_type": "item",
               "title": "vuido",
-              "description": "*",
+              "description": "mimecorg/vuido",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2370,10 +2370,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-30T08:08:59Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27210,
+                "stars": 27208,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -2452,11 +2452,11 @@
                 "id": 764419211,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T16:13:26Z",
-                "open_issues": 128,
+                "last_commit": "2026-10-02T22:31:36Z",
+                "open_issues": 129,
                 "owner": "blackboardsh",
                 "repo": "electrobun",
-                "stars": 12870,
+                "stars": 12871,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
@@ -2464,7 +2464,7 @@
             {
               "node_type": "item",
               "title": "Butter",
-              "description": null,
+              "description": "wess/butter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2502,7 +2502,7 @@
             {
               "node_type": "item",
               "title": "butter",
-              "description": null,
+              "description": "wess/butter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2547,7 +2547,7 @@
             {
               "node_type": "item",
               "title": "MouseTrap",
-              "description": null,
+              "description": "Clemapfel/Mousetrap.jl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2579,7 +2579,7 @@
             {
               "node_type": "item",
               "title": "Mousetrap.jl",
-              "description": null,
+              "description": "Clemapfel/Mousetrap.jl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2627,11 +2627,11 @@
                 "id": 293498508,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T03:19:08Z",
+                "last_commit": "2026-10-03T03:10:17Z",
                 "open_issues": 23,
                 "owner": "JetBrains",
                 "repo": "compose-multiplatform",
-                "stars": 19397,
+                "stars": 19399,
                 "topics": [
                   "android",
                   "awt",
@@ -2663,7 +2663,7 @@
             {
               "node_type": "item",
               "title": "nimx",
-              "description": null,
+              "description": "yglukhov/nimx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2676,7 +2676,7 @@
                 "open_issues": 35,
                 "owner": "yglukhov",
                 "repo": "nimx",
-                "stars": 1189,
+                "stars": 1188,
                 "topics": [
                   "nim",
                   "ui"
@@ -2687,7 +2687,7 @@
             {
               "node_type": "item",
               "title": "nimx",
-              "description": null,
+              "description": "yglukhov/nimx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2700,7 +2700,7 @@
                 "open_issues": 35,
                 "owner": "yglukhov",
                 "repo": "nimx",
-                "stars": 1189,
+                "stars": 1188,
                 "topics": [
                   "nim",
                   "ui"
@@ -2711,7 +2711,7 @@
             {
               "node_type": "item",
               "title": "NiGui",
-              "description": null,
+              "description": "simonkrauter/NiGui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2739,7 +2739,7 @@
             {
               "node_type": "item",
               "title": "NiGui",
-              "description": null,
+              "description": "simonkrauter/NiGui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2767,7 +2767,7 @@
             {
               "node_type": "item",
               "title": "ui",
-              "description": null,
+              "description": "nim-lang/ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2788,7 +2788,7 @@
             {
               "node_type": "item",
               "title": "ui",
-              "description": null,
+              "description": "nim-lang/ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2809,7 +2809,7 @@
             {
               "node_type": "item",
               "title": "iup",
-              "description": null,
+              "description": "nim-lang/iup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2830,7 +2830,7 @@
             {
               "node_type": "item",
               "title": "iup",
-              "description": null,
+              "description": "nim-lang/iup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2851,7 +2851,7 @@
             {
               "node_type": "item",
               "title": "SDL2",
-              "description": null,
+              "description": "nim-lang/sdl2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2872,7 +2872,7 @@
             {
               "node_type": "item",
               "title": "sdl2",
-              "description": null,
+              "description": "nim-lang/sdl2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2893,7 +2893,7 @@
             {
               "node_type": "item",
               "title": "SDL2",
-              "description": null,
+              "description": "Vladar4/sdl2_nim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2918,7 +2918,7 @@
             {
               "node_type": "item",
               "title": "sdl2_nim",
-              "description": null,
+              "description": "Vladar4/sdl2_nim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2943,7 +2943,7 @@
             {
               "node_type": "item",
               "title": "Owlkettle",
-              "description": null,
+              "description": "can-lehmann/owlkettle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2974,7 +2974,7 @@
             {
               "node_type": "item",
               "title": "owlkettle",
-              "description": null,
+              "description": "can-lehmann/owlkettle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3005,7 +3005,7 @@
             {
               "node_type": "item",
               "title": "wNim",
-              "description": null,
+              "description": "khchen/wNim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3026,7 +3026,7 @@
             {
               "node_type": "item",
               "title": "wNim",
-              "description": null,
+              "description": "khchen/wNim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3047,7 +3047,7 @@
             {
               "node_type": "item",
               "title": "gintro",
-              "description": null,
+              "description": "StefanSalewski/gintro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3077,7 +3077,7 @@
             {
               "node_type": "item",
               "title": "gintro",
-              "description": null,
+              "description": "StefanSalewski/gintro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3107,7 +3107,7 @@
             {
               "node_type": "item",
               "title": "nimqml",
-              "description": null,
+              "description": "filcuc/nimqml",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3133,7 +3133,7 @@
             {
               "node_type": "item",
               "title": "nimqml",
-              "description": null,
+              "description": "filcuc/nimqml",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3159,7 +3159,7 @@
             {
               "node_type": "item",
               "title": "Neel",
-              "description": null,
+              "description": "Niminem/Neel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3192,7 +3192,7 @@
             {
               "node_type": "item",
               "title": "Neel",
-              "description": null,
+              "description": "Niminem/Neel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3225,7 +3225,7 @@
             {
               "node_type": "item",
               "title": "nimview",
-              "description": null,
+              "description": "marcomq/nimview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3257,7 +3257,7 @@
             {
               "node_type": "item",
               "title": "nimview",
-              "description": null,
+              "description": "marcomq/nimview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3289,7 +3289,7 @@
             {
               "node_type": "item",
               "title": "webgui",
-              "description": null,
+              "description": "juancarlospaco/webgui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3331,7 +3331,7 @@
             {
               "node_type": "item",
               "title": "webgui",
-              "description": null,
+              "description": "juancarlospaco/webgui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3373,7 +3373,7 @@
             {
               "node_type": "item",
               "title": "fidget",
-              "description": null,
+              "description": "treeform/fidget",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3394,7 +3394,7 @@
             {
               "node_type": "item",
               "title": "fidget",
-              "description": null,
+              "description": "treeform/fidget",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3415,7 +3415,7 @@
             {
               "node_type": "item",
               "title": "imgui",
-              "description": null,
+              "description": "nimgl/imgui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3442,7 +3442,7 @@
             {
               "node_type": "item",
               "title": "imgui",
-              "description": null,
+              "description": "nimgl/imgui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3490,7 +3490,7 @@
             {
               "node_type": "item",
               "title": "ggplotnim",
-              "description": null,
+              "description": "Vindaar/ggplotnim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3518,7 +3518,7 @@
             {
               "node_type": "item",
               "title": "ggplotnim",
-              "description": null,
+              "description": "Vindaar/ggplotnim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3546,7 +3546,7 @@
             {
               "node_type": "item",
               "title": "plotly",
-              "description": null,
+              "description": "SciNim/nim-plotly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3573,7 +3573,7 @@
             {
               "node_type": "item",
               "title": "nim-plotly",
-              "description": null,
+              "description": "SciNim/nim-plotly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3600,7 +3600,7 @@
             {
               "node_type": "item",
               "title": "graph",
-              "description": null,
+              "description": "stisa/graph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3625,7 +3625,7 @@
             {
               "node_type": "item",
               "title": "graph",
-              "description": null,
+              "description": "stisa/graph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3650,7 +3650,7 @@
             {
               "node_type": "item",
               "title": "nimetry",
-              "description": null,
+              "description": "refaqtor/nimetry",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3671,7 +3671,7 @@
             {
               "node_type": "item",
               "title": "nimetry",
-              "description": null,
+              "description": "refaqtor/nimetry",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3720,7 +3720,7 @@
             {
               "node_type": "item",
               "title": "Perl Executing Browser",
-              "description": null,
+              "description": "ddmitov/perl-executing-browser",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3748,7 +3748,7 @@
             {
               "node_type": "item",
               "title": "perl-executing-browser",
-              "description": null,
+              "description": "ddmitov/perl-executing-browser",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3840,7 +3840,7 @@
             {
               "node_type": "item",
               "title": "BOSON",
-              "description": null,
+              "description": "boson-php/boson",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3871,7 +3871,7 @@
             {
               "node_type": "item",
               "title": "boson",
-              "description": null,
+              "description": "boson-php/boson",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3946,11 +3946,11 @@
                 "id": 1049095,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-24T22:42:06Z",
-                "open_issues": 854,
+                "last_commit": "2026-10-02T12:07:55Z",
+                "open_issues": 852,
                 "owner": "kivy",
                 "repo": "kivy",
-                "stars": 19026,
+                "stars": 19025,
                 "topics": [
                   "android",
                   "app",
@@ -3998,11 +3998,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T20:01:55Z",
-                "open_issues": 313,
+                "last_commit": "2026-10-03T01:52:49Z",
+                "open_issues": 312,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17228,
+                "stars": 17235,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -4019,7 +4019,7 @@
             {
               "node_type": "item",
               "title": "Eel",
-              "description": null,
+              "description": "python-eel/Eel",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4042,7 +4042,7 @@
             {
               "node_type": "item",
               "title": "Eel",
-              "description": "*",
+              "description": "python-eel/Eel",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4065,7 +4065,7 @@
             {
               "node_type": "item",
               "title": "pywebview",
-              "description": null,
+              "description": "r0x0r/pywebview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4078,7 +4078,7 @@
                 "open_issues": 19,
                 "owner": "r0x0r",
                 "repo": "pywebview",
-                "stars": 6074,
+                "stars": 6075,
                 "topics": [
                   "cef",
                   "cocoa",
@@ -4099,7 +4099,7 @@
             {
               "node_type": "item",
               "title": "pywebview",
-              "description": null,
+              "description": "r0x0r/pywebview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4112,7 +4112,7 @@
                 "open_issues": 19,
                 "owner": "r0x0r",
                 "repo": "pywebview",
-                "stars": 6074,
+                "stars": 6075,
                 "topics": [
                   "cef",
                   "cocoa",
@@ -4146,7 +4146,7 @@
                 "open_issues": 708,
                 "owner": "PySimpleGUI",
                 "repo": "PySimpleGUI",
-                "stars": 13823,
+                "stars": 13822,
                 "topics": [
                   "beginner-friendly",
                   "datavisualization",
@@ -4184,11 +4184,11 @@
                 "id": 365250183,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T09:46:41Z",
-                "open_issues": 63,
+                "last_commit": "2026-10-02T14:55:25Z",
+                "open_issues": 64,
                 "owner": "zauberzeug",
                 "repo": "nicegui",
-                "stars": 16259,
+                "stars": 16261,
                 "topics": [
                   "frontend",
                   "gui",
@@ -4232,7 +4232,7 @@
             {
               "node_type": "item",
               "title": "Pyloid",
-              "description": null,
+              "description": "pyloid/pyloid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4260,7 +4260,7 @@
             {
               "node_type": "item",
               "title": "pyloid",
-              "description": null,
+              "description": "pyloid/pyloid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4304,7 +4304,7 @@
                 "id": 4729944,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T23:06:49Z",
+                "last_commit": "2026-10-02T20:29:14Z",
                 "open_issues": 873,
                 "owner": "rstudio",
                 "repo": "shiny",
@@ -4370,7 +4370,7 @@
             {
               "node_type": "item",
               "title": "Drawing",
-              "description": null,
+              "description": "red/docs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4391,7 +4391,7 @@
             {
               "node_type": "item",
               "title": "red",
-              "description": null,
+              "description": "red/red",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4404,7 +4404,7 @@
                 "open_issues": 540,
                 "owner": "red",
                 "repo": "red",
-                "stars": 6045,
+                "stars": 6046,
                 "topics": [
                   "compiler",
                   "cross-platform",
@@ -4426,7 +4426,7 @@
             {
               "node_type": "item",
               "title": "Native GUI",
-              "description": null,
+              "description": "red/docs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4447,7 +4447,7 @@
             {
               "node_type": "item",
               "title": "red",
-              "description": null,
+              "description": "red/red",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4460,7 +4460,7 @@
                 "open_issues": 540,
                 "owner": "red",
                 "repo": "red",
-                "stars": 6045,
+                "stars": 6046,
                 "topics": [
                   "compiler",
                   "cross-platform",
@@ -4482,7 +4482,7 @@
             {
               "node_type": "item",
               "title": "Layout",
-              "description": null,
+              "description": "red/docs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4503,7 +4503,7 @@
             {
               "node_type": "item",
               "title": "red",
-              "description": null,
+              "description": "red/red",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4516,7 +4516,7 @@
                 "open_issues": 540,
                 "owner": "red",
                 "repo": "red",
-                "stars": 6045,
+                "stars": 6046,
                 "topics": [
                   "compiler",
                   "cross-platform",
@@ -4545,7 +4545,7 @@
             {
               "node_type": "item",
               "title": "Glimmer",
-              "description": null,
+              "description": "AndyObtiva/glimmer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4583,7 +4583,7 @@
             {
               "node_type": "item",
               "title": "glimmer",
-              "description": null,
+              "description": "AndyObtiva/glimmer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4634,7 +4634,7 @@
                 "open_issues": 12,
                 "owner": "ryanmelt",
                 "repo": "qtbindings",
-                "stars": 337,
+                "stars": 336,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
@@ -4642,7 +4642,7 @@
             {
               "node_type": "item",
               "title": "tk",
-              "description": null,
+              "description": "ruby/tk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4666,7 +4666,7 @@
             {
               "node_type": "item",
               "title": "tk",
-              "description": null,
+              "description": "ruby/tk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4690,7 +4690,7 @@
             {
               "node_type": "item",
               "title": "ruby-gnome",
-              "description": null,
+              "description": "ruby-gnome/ruby-gnome",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4711,7 +4711,7 @@
             {
               "node_type": "item",
               "title": "ruby-gnome",
-              "description": null,
+              "description": "ruby-gnome/ruby-gnome",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4732,7 +4732,7 @@
             {
               "node_type": "item",
               "title": "JRubyFX",
-              "description": null,
+              "description": "jruby/jrubyfx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4753,7 +4753,7 @@
             {
               "node_type": "item",
               "title": "jrubyfx",
-              "description": null,
+              "description": "jruby/jrubyfx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4774,7 +4774,7 @@
             {
               "node_type": "item",
               "title": "traveling-ruby",
-              "description": null,
+              "description": "phusion/traveling-ruby",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4795,7 +4795,7 @@
             {
               "node_type": "item",
               "title": "traveling-ruby",
-              "description": null,
+              "description": "phusion/traveling-ruby",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4836,7 +4836,7 @@
                 "open_issues": 78,
                 "owner": "gtk-rs",
                 "repo": "gtk4-rs",
-                "stars": 2348,
+                "stars": 2349,
                 "topics": [
                   "gdk4",
                   "gdk4-wayland",
@@ -4853,7 +4853,7 @@
             {
               "node_type": "item",
               "title": "tauri",
-              "description": null,
+              "description": "tauri-apps/tauri",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4866,7 +4866,7 @@
                 "open_issues": 1476,
                 "owner": "tauri-apps",
                 "repo": "tauri",
-                "stars": 111543,
+                "stars": 111560,
                 "topics": [
                   "desktop-app",
                   "high-performance",
@@ -4895,7 +4895,7 @@
                 "open_issues": 1476,
                 "owner": "tauri-apps",
                 "repo": "tauri",
-                "stars": 111543,
+                "stars": 111560,
                 "topics": [
                   "desktop-app",
                   "high-performance",
@@ -4920,11 +4920,11 @@
                 "id": 340547520,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T11:22:20Z",
-                "open_issues": 3064,
+                "last_commit": "2026-10-03T04:22:45Z",
+                "open_issues": 3059,
                 "owner": "zed-industries",
                 "repo": "zed",
-                "stars": 91194,
+                "stars": 91215,
                 "topics": [
                   "gpui",
                   "rust-lang",
@@ -4944,7 +4944,7 @@
             {
               "node_type": "item",
               "title": "ui",
-              "description": null,
+              "description": "pisaiah/ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4980,7 +4980,7 @@
             {
               "node_type": "item",
               "title": "ui",
-              "description": null,
+              "description": "pisaiah/ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5016,7 +5016,7 @@
             {
               "node_type": "item",
               "title": "mui",
-              "description": null,
+              "description": "malisipi/mui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5057,7 +5057,7 @@
             {
               "node_type": "item",
               "title": "mui",
-              "description": null,
+              "description": "malisipi/mui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5098,7 +5098,7 @@
             {
               "node_type": "item",
               "title": "viup",
-              "description": null,
+              "description": "kjlaw89/viup",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5126,7 +5126,7 @@
             {
               "node_type": "item",
               "title": "viup",
-              "description": null,
+              "description": "kjlaw89/viup",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5154,7 +5154,7 @@
             {
               "node_type": "item",
               "title": "vi-v",
-              "description": null,
+              "description": "nocturlab/vi-v",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5180,7 +5180,7 @@
             {
               "node_type": "item",
               "title": "vi-v",
-              "description": null,
+              "description": "nocturlab/vi-v",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5206,7 +5206,7 @@
             {
               "node_type": "item",
               "title": "vxui",
-              "description": null,
+              "description": "kbkpbot/vxui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5235,7 +5235,7 @@
             {
               "node_type": "item",
               "title": "vxui",
-              "description": null,
+              "description": "kbkpbot/vxui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5319,7 +5319,7 @@
             {
               "node_type": "item",
               "title": "zero-native",
-              "description": null,
+              "description": "vercel-labs/native",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5328,8 +5328,8 @@
                 "id": 1233290067,
                 "language": "Zig",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T10:49:31Z",
-                "open_issues": 190,
+                "last_commit": "2026-10-03T01:18:31Z",
+                "open_issues": 184,
                 "owner": "vercel-labs",
                 "repo": "native",
                 "stars": 7737,
@@ -5340,7 +5340,7 @@
             {
               "node_type": "item",
               "title": "native",
-              "description": null,
+              "description": "vercel-labs/native",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5349,8 +5349,8 @@
                 "id": 1233290067,
                 "language": "Zig",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T10:49:31Z",
-                "open_issues": 190,
+                "last_commit": "2026-10-03T01:18:31Z",
+                "open_issues": 184,
                 "owner": "vercel-labs",
                 "repo": "native",
                 "stars": 7737,
@@ -5516,7 +5516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:23:01.188Z",
+    "last_updated": "2026-10-03T04:43:31.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Electron alternatives.",
