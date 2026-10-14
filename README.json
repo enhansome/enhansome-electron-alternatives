@@ -17,8 +17,8 @@
                 "id": 14964475,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-13T05:07:13Z",
-                "open_issues": 1946,
+                "last_commit": "2026-10-13T20:29:55Z",
+                "open_issues": 1957,
                 "owner": "AvaloniaUI",
                 "repo": "Avalonia",
                 "stars": 31662,
@@ -59,11 +59,11 @@
                 "id": 132453438,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T12:53:10Z",
-                "open_issues": 1992,
+                "last_commit": "2026-10-14T10:34:35Z",
+                "open_issues": 2009,
                 "owner": "unoplatform",
                 "repo": "uno",
-                "stars": 10078,
+                "stars": 10080,
                 "topics": [
                   "android",
                   "c-sharp",
@@ -105,7 +105,7 @@
                 "open_issues": 6,
                 "owner": "chromelyapps",
                 "repo": "Chromely",
-                "stars": 2970,
+                "stars": 2971,
                 "topics": [
                   "angular",
                   "asp-net-core",
@@ -147,7 +147,7 @@
                 "open_issues": 6,
                 "owner": "chromelyapps",
                 "repo": "Chromely",
-                "stars": 2970,
+                "stars": 2971,
                 "topics": [
                   "angular",
                   "asp-net-core",
@@ -241,7 +241,7 @@
                 "open_issues": 44,
                 "owner": "tryphotino",
                 "repo": "photino.NET",
-                "stars": 1352,
+                "stars": 1350,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
@@ -262,7 +262,7 @@
                 "open_issues": 44,
                 "owner": "tryphotino",
                 "repo": "photino.NET",
-                "stars": 1352,
+                "stars": 1350,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
@@ -440,7 +440,7 @@
                 "open_issues": 216,
                 "owner": "webview",
                 "repo": "webview",
-                "stars": 14277,
+                "stars": 14280,
                 "topics": [
                   "c",
                   "cpp",
@@ -477,7 +477,7 @@
                 "open_issues": 216,
                 "owner": "webview",
                 "repo": "webview",
-                "stars": 14277,
+                "stars": 14280,
                 "topics": [
                   "c",
                   "cpp",
@@ -514,7 +514,7 @@
                 "open_issues": 5,
                 "owner": "saucer",
                 "repo": "saucer",
-                "stars": 948,
+                "stars": 950,
                 "topics": [
                   "cocoa",
                   "cpp",
@@ -556,7 +556,7 @@
                 "open_issues": 5,
                 "owner": "saucer",
                 "repo": "saucer",
-                "stars": 948,
+                "stars": 950,
                 "topics": [
                   "cocoa",
                   "cpp",
@@ -726,7 +726,7 @@
                 "open_issues": 12,
                 "owner": "Ravbug",
                 "repo": "UnityHubNative",
-                "stars": 556,
+                "stars": 557,
                 "topics": [
                   "alternative",
                   "cpp",
@@ -760,7 +760,7 @@
                 "open_issues": 12,
                 "owner": "Ravbug",
                 "repo": "UnityHubNative",
-                "stars": 556,
+                "stars": 557,
                 "topics": [
                   "alternative",
                   "cpp",
@@ -896,7 +896,7 @@
                 "open_issues": 216,
                 "owner": "webview",
                 "repo": "webview",
-                "stars": 14277,
+                "stars": 14280,
                 "topics": [
                   "c",
                   "cpp",
@@ -965,11 +965,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-13T10:36:20Z",
-                "open_issues": 13346,
+                "last_commit": "2026-10-14T07:53:41Z",
+                "open_issues": 13338,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 180036,
+                "stars": 180164,
                 "topics": [
                   "android",
                   "app-framework",
@@ -1090,11 +1090,11 @@
                 "id": 161951219,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-13T12:51:51Z",
-                "open_issues": 378,
+                "last_commit": "2026-10-14T00:25:55Z",
+                "open_issues": 379,
                 "owner": "wailsapp",
                 "repo": "wails",
-                "stars": 36534,
+                "stars": 36548,
                 "topics": [
                   "angular",
                   "desktop-application",
@@ -1123,11 +1123,11 @@
                 "id": 161951219,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-13T12:51:51Z",
-                "open_issues": 378,
+                "last_commit": "2026-10-14T00:25:55Z",
+                "open_issues": 379,
                 "owner": "wailsapp",
                 "repo": "wails",
-                "stars": 36534,
+                "stars": 36548,
                 "topics": [
                   "angular",
                   "desktop-application",
@@ -1160,7 +1160,7 @@
                 "open_issues": 27,
                 "owner": "ImVexed",
                 "repo": "muon",
-                "stars": 2941,
+                "stars": 2942,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -1186,7 +1186,7 @@
                 "open_issues": 27,
                 "owner": "ImVexed",
                 "repo": "muon",
-                "stars": 2941,
+                "stars": 2942,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -1208,11 +1208,11 @@
                 "id": 120227732,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-13T11:30:10Z",
+                "last_commit": "2026-10-14T08:36:34Z",
                 "open_issues": 742,
                 "owner": "fyne-io",
                 "repo": "fyne",
-                "stars": 28748,
+                "stars": 28750,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -1240,11 +1240,11 @@
                 "id": 120227732,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-13T11:30:10Z",
+                "last_commit": "2026-10-14T08:36:34Z",
                 "open_issues": 742,
                 "owner": "fyne-io",
                 "repo": "fyne",
-                "stars": 28748,
+                "stars": 28750,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -1638,7 +1638,7 @@
                 "open_issues": 21,
                 "owner": "pojala",
                 "repo": "electrino",
-                "stars": 4395,
+                "stars": 4396,
                 "topics": [
                   "desktop",
                   "electron",
@@ -1666,7 +1666,7 @@
                 "open_issues": 21,
                 "owner": "pojala",
                 "repo": "electrino",
-                "stars": 4395,
+                "stars": 4396,
                 "topics": [
                   "desktop",
                   "electron",
@@ -1694,7 +1694,7 @@
                 "open_issues": 44,
                 "owner": "nidium",
                 "repo": "Nidium",
-                "stars": 1145,
+                "stars": 1146,
                 "topics": [
                   "2d-canvas",
                   "c-plus-plus",
@@ -1728,7 +1728,7 @@
                 "open_issues": 44,
                 "owner": "nidium",
                 "repo": "Nidium",
-                "stars": 1145,
+                "stars": 1146,
                 "topics": [
                   "2d-canvas",
                   "c-plus-plus",
@@ -1837,7 +1837,7 @@
                 "open_issues": 101,
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9231,
+                "stars": 9230,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -1866,7 +1866,7 @@
                 "open_issues": 54,
                 "owner": "nodegui",
                 "repo": "react-nodegui",
-                "stars": 6175,
+                "stars": 6176,
                 "topics": [
                   "css",
                   "desktop",
@@ -1897,7 +1897,7 @@
                 "open_issues": 101,
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9231,
+                "stars": 9230,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -1926,7 +1926,7 @@
                 "open_issues": 11,
                 "owner": "astrodon",
                 "repo": "astrodon",
-                "stars": 1023,
+                "stars": 1022,
                 "topics": [
                   "astrodon",
                   "deno",
@@ -1954,7 +1954,7 @@
                 "open_issues": 11,
                 "owner": "astrodon",
                 "repo": "astrodon",
-                "stars": 1023,
+                "stars": 1022,
                 "topics": [
                   "astrodon",
                   "deno",
@@ -2046,7 +2046,7 @@
                 "open_issues": 58,
                 "owner": "wan9chi",
                 "repo": "DeskGap",
-                "stars": 1811,
+                "stars": 1812,
                 "topics": [
                   "cpp",
                   "javascript",
@@ -2075,7 +2075,7 @@
                 "open_issues": 912,
                 "owner": "nwjs",
                 "repo": "nw.js",
-                "stars": 41138,
+                "stars": 41136,
                 "topics": [
                   "desktop",
                   "javascript",
@@ -2099,11 +2099,11 @@
                 "id": 138368259,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T00:47:08Z",
+                "last_commit": "2026-10-14T00:38:29Z",
                 "open_issues": 189,
                 "owner": "neutralinojs",
                 "repo": "neutralinojs",
-                "stars": 8667,
+                "stars": 8668,
                 "topics": [
                   "c-plus-plus",
                   "cross-platform",
@@ -2136,7 +2136,7 @@
                 "open_issues": 41,
                 "owner": "parro-it",
                 "repo": "libui-node",
-                "stars": 1871,
+                "stars": 1872,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
@@ -2157,7 +2157,7 @@
                 "open_issues": 89,
                 "owner": "kusti8",
                 "repo": "proton-native",
-                "stars": 10868,
+                "stars": 10870,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -2226,7 +2226,7 @@
                 "open_issues": 21,
                 "owner": "gluon-framework",
                 "repo": "gluon",
-                "stars": 3048,
+                "stars": 3047,
                 "topics": [
                   "framework",
                   "javascript",
@@ -2252,7 +2252,7 @@
                 "open_issues": 21,
                 "owner": "gluon-framework",
                 "repo": "gluon",
-                "stars": 3048,
+                "stars": 3047,
                 "topics": [
                   "framework",
                   "javascript",
@@ -2414,7 +2414,7 @@
                 "open_issues": 28,
                 "owner": "mimecorg",
                 "repo": "vuido",
-                "stars": 6045,
+                "stars": 6046,
                 "topics": [
                   "desktop",
                   "libui",
@@ -2440,7 +2440,7 @@
                 "open_issues": 41,
                 "owner": "parro-it",
                 "repo": "libui-node",
-                "stars": 1871,
+                "stars": 1872,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
@@ -2461,7 +2461,7 @@
                 "open_issues": 28,
                 "owner": "mimecorg",
                 "repo": "vuido",
-                "stars": 6045,
+                "stars": 6046,
                 "topics": [
                   "desktop",
                   "libui",
@@ -2484,10 +2484,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-12T08:32:42Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27204,
+                "stars": 27203,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -2566,11 +2566,11 @@
                 "id": 764419211,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T05:32:02Z",
-                "open_issues": 134,
+                "last_commit": "2026-10-14T01:46:33Z",
+                "open_issues": 135,
                 "owner": "blackboardsh",
                 "repo": "electrobun",
-                "stars": 12910,
+                "stars": 12915,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
@@ -2741,11 +2741,11 @@
                 "id": 293498508,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T09:32:14Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-14T10:35:33Z",
+                "open_issues": 29,
                 "owner": "JetBrains",
                 "repo": "compose-multiplatform",
-                "stars": 19419,
+                "stars": 19421,
                 "topics": [
                   "android",
                   "awt",
@@ -3282,11 +3282,11 @@
                 "id": 299354262,
                 "language": "Nim",
                 "license": "MIT",
-                "last_commit": "2026-10-13T01:31:18Z",
+                "last_commit": "2026-10-14T05:48:35Z",
                 "open_issues": 1,
                 "owner": "Niminem",
                 "repo": "Neel",
-                "stars": 257,
+                "stars": 261,
                 "topics": [
                   "desktop-app",
                   "desktop-application",
@@ -3315,11 +3315,11 @@
                 "id": 299354262,
                 "language": "Nim",
                 "license": "MIT",
-                "last_commit": "2026-10-13T01:31:18Z",
+                "last_commit": "2026-10-14T05:48:35Z",
                 "open_issues": 1,
                 "owner": "Niminem",
                 "repo": "Neel",
-                "stars": 257,
+                "stars": 261,
                 "topics": [
                   "desktop-app",
                   "desktop-application",
@@ -3967,7 +3967,7 @@
                 "open_issues": 14,
                 "owner": "boson-php",
                 "repo": "boson",
-                "stars": 677,
+                "stars": 678,
                 "topics": [
                   "bridge",
                   "browser",
@@ -3998,7 +3998,7 @@
                 "open_issues": 14,
                 "owner": "boson-php",
                 "repo": "boson",
-                "stars": 677,
+                "stars": 678,
                 "topics": [
                   "bridge",
                   "browser",
@@ -4036,7 +4036,7 @@
                 "open_issues": 66,
                 "owner": "mherrmann",
                 "repo": "fbs",
-                "stars": 3923,
+                "stars": 3925,
                 "topics": [
                   "pyinstaller",
                   "pyqt5",
@@ -4060,11 +4060,11 @@
                 "id": 1049095,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-12T12:19:53Z",
+                "last_commit": "2026-10-13T14:34:01Z",
                 "open_issues": 871,
                 "owner": "kivy",
                 "repo": "kivy",
-                "stars": 19030,
+                "stars": 19032,
                 "topics": [
                   "android",
                   "app",
@@ -4112,11 +4112,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T18:00:13Z",
-                "open_issues": 261,
+                "last_commit": "2026-10-13T23:32:15Z",
+                "open_issues": 264,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17332,
+                "stars": 17347,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -4146,7 +4146,7 @@
                 "open_issues": 216,
                 "owner": "python-eel",
                 "repo": "Eel",
-                "stars": 6730,
+                "stars": 6731,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -4169,7 +4169,7 @@
                 "open_issues": 216,
                 "owner": "python-eel",
                 "repo": "Eel",
-                "stars": 6730,
+                "stars": 6731,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -4192,7 +4192,7 @@
                 "open_issues": 25,
                 "owner": "r0x0r",
                 "repo": "pywebview",
-                "stars": 6111,
+                "stars": 6114,
                 "topics": [
                   "cef",
                   "cocoa",
@@ -4226,7 +4226,7 @@
                 "open_issues": 25,
                 "owner": "r0x0r",
                 "repo": "pywebview",
-                "stars": 6111,
+                "stars": 6114,
                 "topics": [
                   "cef",
                   "cocoa",
@@ -4260,7 +4260,7 @@
                 "open_issues": 708,
                 "owner": "PySimpleGUI",
                 "repo": "PySimpleGUI",
-                "stars": 13826,
+                "stars": 13825,
                 "topics": [
                   "beginner-friendly",
                   "datavisualization",
@@ -4298,11 +4298,11 @@
                 "id": 365250183,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T12:48:42Z",
+                "last_commit": "2026-10-13T22:47:26Z",
                 "open_issues": 65,
                 "owner": "zauberzeug",
                 "repo": "nicegui",
-                "stars": 16282,
+                "stars": 16286,
                 "topics": [
                   "frontend",
                   "gui",
@@ -4331,11 +4331,11 @@
                 "id": 22529973,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-12T01:20:20Z",
-                "open_issues": 311,
+                "last_commit": "2026-10-14T06:35:15Z",
+                "open_issues": 307,
                 "owner": "beeware",
                 "repo": "toga",
-                "stars": 5418,
+                "stars": 5419,
                 "topics": [
                   "gui",
                   "python"
@@ -4359,7 +4359,7 @@
                 "open_issues": 7,
                 "owner": "pyloid",
                 "repo": "pyloid",
-                "stars": 518,
+                "stars": 517,
                 "topics": [
                   "ai",
                   "app",
@@ -4387,7 +4387,7 @@
                 "open_issues": 7,
                 "owner": "pyloid",
                 "repo": "pyloid",
-                "stars": 518,
+                "stars": 517,
                 "topics": [
                   "ai",
                   "app",
@@ -4457,7 +4457,7 @@
                 "open_issues": 112,
                 "owner": "revery-ui",
                 "repo": "revery",
-                "stars": 8035,
+                "stars": 8036,
                 "topics": [
                   "app",
                   "cross-platform",
@@ -4518,7 +4518,7 @@
                 "open_issues": 541,
                 "owner": "red",
                 "repo": "red",
-                "stars": 6053,
+                "stars": 6056,
                 "topics": [
                   "compiler",
                   "cross-platform",
@@ -4574,7 +4574,7 @@
                 "open_issues": 541,
                 "owner": "red",
                 "repo": "red",
-                "stars": 6053,
+                "stars": 6056,
                 "topics": [
                   "compiler",
                   "cross-platform",
@@ -4630,7 +4630,7 @@
                 "open_issues": 541,
                 "owner": "red",
                 "repo": "red",
-                "stars": 6053,
+                "stars": 6056,
                 "topics": [
                   "compiler",
                   "cross-platform",
@@ -4817,7 +4817,7 @@
                 "open_issues": 31,
                 "owner": "ruby-gnome",
                 "repo": "ruby-gnome",
-                "stars": 402,
+                "stars": 403,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
@@ -4838,7 +4838,7 @@
                 "open_issues": 31,
                 "owner": "ruby-gnome",
                 "repo": "ruby-gnome",
-                "stars": 402,
+                "stars": 403,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
@@ -4950,7 +4950,7 @@
                 "open_issues": 82,
                 "owner": "gtk-rs",
                 "repo": "gtk4-rs",
-                "stars": 2357,
+                "stars": 2356,
                 "topics": [
                   "gdk4",
                   "gdk4-wayland",
@@ -4976,11 +4976,11 @@
                 "id": 196701619,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T11:50:10Z",
-                "open_issues": 1493,
+                "last_commit": "2026-10-14T09:28:18Z",
+                "open_issues": 1494,
                 "owner": "tauri-apps",
                 "repo": "tauri",
-                "stars": 111837,
+                "stars": 111886,
                 "topics": [
                   "desktop-app",
                   "high-performance",
@@ -5005,11 +5005,11 @@
                 "id": 196701619,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T11:50:10Z",
-                "open_issues": 1493,
+                "last_commit": "2026-10-14T09:28:18Z",
+                "open_issues": 1494,
                 "owner": "tauri-apps",
                 "repo": "tauri",
-                "stars": 111837,
+                "stars": 111886,
                 "topics": [
                   "desktop-app",
                   "high-performance",
@@ -5034,11 +5034,11 @@
                 "id": 340547520,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T12:52:03Z",
-                "open_issues": 3034,
+                "last_commit": "2026-10-14T09:40:00Z",
+                "open_issues": 3029,
                 "owner": "zed-industries",
                 "repo": "zed",
-                "stars": 91668,
+                "stars": 91705,
                 "topics": [
                   "gpui",
                   "rust-lang",
@@ -5442,11 +5442,11 @@
                 "id": 1233290067,
                 "language": "Zig",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T12:21:22Z",
-                "open_issues": 183,
+                "last_commit": "2026-10-14T10:35:55Z",
+                "open_issues": 181,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7779,
+                "stars": 7776,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
@@ -5463,11 +5463,11 @@
                 "id": 1233290067,
                 "language": "Zig",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T12:21:22Z",
-                "open_issues": 183,
+                "last_commit": "2026-10-14T10:35:55Z",
+                "open_issues": 181,
                 "owner": "vercel-labs",
                 "repo": "native",
-                "stars": 7779,
+                "stars": 7776,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.253Z"
@@ -5499,7 +5499,7 @@
             "open_issues": 13,
             "owner": "yue",
             "repo": "yue",
-            "stars": 3609,
+            "stars": 3611,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:35.253Z"
@@ -5520,7 +5520,7 @@
             "open_issues": 36,
             "owner": "Elanis",
             "repo": "web-to-desktop-framework-comparison",
-            "stars": 1994,
+            "stars": 1995,
             "topics": [
               "benchmark",
               "characteristics",
@@ -5557,7 +5557,7 @@
             "open_issues": 0,
             "owner": "doyensec",
             "repo": "awesome-electronjs-hacking",
-            "stars": 681,
+            "stars": 685,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:35.253Z"
@@ -5630,7 +5630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:58:39.361Z",
+    "last_updated": "2026-10-14T10:38:56.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Electron alternatives.",
@@ -5642,7 +5642,7 @@
       "open_issues": 6,
       "owner": "sudhakar3697",
       "repo": "awesome-electron-alternatives",
-      "stars": 2205,
+      "stars": 2204,
       "topics": [
         "awesome-list",
         "cross-platform-desktop-app-dev",
